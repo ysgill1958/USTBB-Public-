@@ -1,3 +1,19 @@
+/* colourful header */
+.mast{display:flex;justify-content:space-between;align-items:center;gap:12px;margin-bottom:12px;border-radius:16px;padding:18px;border:1px solid #dee2e6;background:#fff}
+.mast--colorful{
+  color:#fff;border:0;background:
+  radial-gradient(1200px 280px at -10% -20%, rgba(124,58,237,.45), transparent 60%),
+  radial-gradient(1000px 260px at 110% -30%, rgba(6,182,212,.45), transparent 55%),
+  linear-gradient(135deg, #6d28d9, #0ea5e9 55%, #22c55e);
+  box-shadow: 0 10px 30px rgba(0,0,0,.1);
+}
+.mast--colorful .brand h1{color:#fff;text-shadow:0 1px 0 rgba(0,0,0,.15)}
+.mast--colorful .tag{color:#eef2ff}
+.brand h1{font-size:1.35rem;margin:0}
+.tag{font-size:.95rem}
+.link{color:#fff;text-decoration:none;font-weight:600}
+.link:hover{text-decoration:underline}
+
 /* footer */
 .footer{
   background:linear-gradient(135deg,#0ea5e9,#22c55e);

@@ -1,17 +1,26 @@
-name: Deploy static site to Pages
+name: Build & Deploy (USTBB)
 
 on:
   push:
     branches: [ main ]
   workflow_dispatch:
+  schedule:
+    - cron: "0 * * * *"         # hourly (UTC)
+    - cron: "0 3 * * 0"         # weekly refresh (Sun 03:00 UTC)
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
-      - name: Upload Pages artifact
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install deps
+        run: pip install -r requirements.txt
+      - name: Build site (scrape + generate)
+        run: python app.py --query "longevity OR aging OR chronic disease treatment OR randomized trial"
+      - name: Upload artifact (output/)
         uses: actions/upload-pages-artifact@v3
         with:
           path: output

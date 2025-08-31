@@ -96,27 +96,32 @@
     });
   }
 
-  function cardHTML(i){
-    const img = i.image ? `<img class="thumb" loading="lazy" src="${i.image}" alt="">`
-                        : `<div class="media"><div class="media__inner">
-                             <div class="media__title">${(i.title||'').slice(0,120)}</div>
-                             <div class="media__summary">${(i.summary||'No summary available.').slice(0,180)}</div>
-                           </div></div>`;
-    // highlight terms in title/summary
-    const highlightedTitle = highlight(i.title, keywords.map(k=>k.terms));
-    const highlightedSummary = highlight(i.summary, keywords.map(k=>k.terms));
+ function cardHTML(i){
+  const img = i.image
+    ? `<div class="mediaBox"><img class="thumb" loading="lazy" src="${i.image}" alt=""></div>`
+    : `<div class="mediaBox mediaBox--placeholder">
+         <div class="media__inner">
+           <div class="media__title">${(i.title||'').slice(0,120)}</div>
+           <div class="media__summary">${(i.summary||'No summary available.').slice(0,180)}</div>
+         </div>
+       </div>`;
 
-    return `<div class="card">
-      <div class="inner">
-        <div class="txt">
-          <h3 style="margin:.4rem 0"><a target="_blank" href="${i.link}">${highlightedTitle}</a></h3>
-          <div class="muted">${i.date||''} • ${i.source||''}</div>
-          <p>${highlightedSummary||''}</p>
-        </div>
-        <div>${img}</div>
+  // (If you also added keyword highlighting earlier, keep that. If not, just use i.title / i.summary.)
+  const title = i.title || '';
+  const summary = i.summary || '';
+
+  return `<div class="card">
+    <div class="inner">
+      <div class="txt">
+        <h3 class="title"><a target="_blank" href="${i.link}">${title}</a></h3>
+        <div class="muted">${i.date||''} • ${i.source||''}</div>
+        <p class="summary">${summary}</p>
       </div>
-    </div>`;
-  }
+      ${img}
+    </div>
+  </div>`;
+}
+
 
   function render(list){
     const limit = anyFiltersActive() ? list.length : 25;

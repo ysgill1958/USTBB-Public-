@@ -1,16 +1,16 @@
 name: Build & Publish USTBB
 
 on:
-  workflow_dispatch:        # allow manual run
+  workflow_dispatch:
   schedule:
-    - cron: "0 * * * *"     # runs every hour (UTC)
+    - cron: "0 * * * *"     # hourly (UTC)
   push:
-    branches: [ main ]      # also run on pushes to main
+    branches: [ main ]
 
 permissions:
-  contents: write           # needed to read repo & (optionally) commit
-  pages: write              # needed to publish Pages
-  id-token: write           # required by deploy-pages
+  contents: write
+  pages: write
+  id-token: write
 
 concurrency:
   group: "pages"
@@ -20,21 +20,19 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Setup Python
-        uses: actions/setup-python@v5
+      - uses: actions/setup-python@v5
         with:
           python-version: "3.10"
 
-      - name: Install dependencies
+      - name: Install deps
         run: pip install -r requirements.txt
 
       - name: Run scraper
         run: python app.py --query "longevity OR aging OR chronic disease treatment OR randomized trial"
 
-      - name: Ensure .nojekyll exists
+      - name: Ensure .nojekyll
         run: |
           mkdir -p output
           touch output/.nojekyll

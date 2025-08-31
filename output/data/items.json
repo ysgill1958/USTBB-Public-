@@ -1,11 +1,1202 @@
 [
   {
-    "source": "Demo",
-    "title": "Sample breakthrough item",
-    "link": "https://example.com/article",
-    "summary": "Short summary for testing layout and filters.",
-    "date": "2025-08-31 12:00:00",
-    "image": ""
+    "source": "ScienceDaily Health",
+    "title": "Beet juice secretly helps older adults lower blood pressure in just two weeks",
+    "link": "https://www.sciencedaily.com/releases/2025/08/250831010505.htm",
+    "summary": "Drinking nitrate-rich beetroot juice lowered blood pressure in older adults by reshaping their oral microbiome, according to researchers at the University of Exeter. The study found that beneficial bacteria increased while harmful ones decreased, leading to better conversion of\u2026",
+    "date": "2025-08-31 03:05:09",
+    "image": "https://www.sciencedaily.com/images/1920/heart-healthy-beet-juice.webp"
+  },
+  {
+    "source": "ScienceDaily Health",
+    "title": "New AI model predicts which genetic mutations truly drive disease",
+    "link": "https://www.sciencedaily.com/releases/2025/08/250830001209.htm",
+    "summary": "Scientists at Mount Sinai have created an artificial intelligence system that can predict how likely rare genetic mutations are to actually cause disease. By combining machine learning with millions of electronic health records and routine lab tests like cholesterol or kidney\u2026",
+    "date": "2025-08-30 08:17:28",
+    "image": "https://www.sciencedaily.com/images/1920/dna-molecule-genetic-code-structure.webp"
+  },
+  {
+    "source": "ScienceDaily Health",
+    "title": "Cells \u201cvomit\u201d waste in a hidden healing shortcut that could also fuel cancer",
+    "link": "https://www.sciencedaily.com/releases/2025/08/250830001207.htm",
+    "summary": "Scientists have uncovered a surprising new healing mechanism in injured cells called cathartocytosis, in which cells \"vomit\" out their internal machinery to revert more quickly to a stem cell-like state. While this messy shortcut helps tissues regenerate faster, it also leaves\u2026",
+    "date": "2025-08-30 05:26:04",
+    "image": "https://www.sciencedaily.com/images/1920/cells-purge-waste-to-promote-healing.webp"
+  },
+  {
+    "source": "ScienceDaily Health",
+    "title": "Why ultra-processed diets make you gain fat even without extra calories",
+    "link": "https://www.sciencedaily.com/releases/2025/08/250830001205.htm",
+    "summary": "Men eating ultra-processed foods gained more fat than those eating unprocessed meals, even with equal calories. Their hormone levels shifted in worrying ways, with testosterone falling and pollutants rising. Researchers say the processing itself, not overeating, is to blame.",
+    "date": "2025-08-30 03:43:50",
+    "image": "https://www.sciencedaily.com/images/1920/obesity-man-eating-fast-food.webp"
+  },
+  {
+    "source": "ScienceDaily Health",
+    "title": "Ancient DNA finally solves the mystery of the world\u2019s first pandemic",
+    "link": "https://www.sciencedaily.com/releases/2025/08/250828002415.htm",
+    "summary": "Scientists have finally uncovered direct genetic evidence of Yersinia pestis \u2014 the bacterium behind the Plague of Justinian \u2014 in a mass grave in Jerash, Jordan. This long-sought discovery resolves a centuries-old debate, confirming that the plague that devastated the Byzantine\u2026",
+    "date": "2025-08-30 03:17:37",
+    "image": "https://www.sciencedaily.com/images/1920/skull-archaeological-site-human-remains.webp"
+  },
+  {
+    "source": "ScienceDaily Health",
+    "title": "In the dark for 11 million years: How blind cavefish rewrote evolution",
+    "link": "https://www.sciencedaily.com/releases/2025/08/250828002412.htm",
+    "summary": "Yale scientists discovered that cavefish species independently evolved blindness and depigmentation as they adapted to dark cave environments, with some lineages dating back over 11 million years. This new genetic method not only reveals ancient cave ages but may also shed light\u2026",
+    "date": "2025-08-29 20:41:12",
+    "image": "https://www.sciencedaily.com/images/1920/blind-cavefish-astyanax-fasciatus-mexicanus.webp"
+  },
+  {
+    "source": "Google News",
+    "title": "Clinical trial shows constipation drug can treat patients with chronic kidney disease - Medical Xpress",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZVlCc0M2WnI3TGFwY1c4UXhLcm9Yblc5ejkwaVRoZ2QxT2MwdHpDYy1fUDBWY1pQUlJUMmc5bVE4Ul91WFJJcDlnbll3bkFSNW52MVlFcWprdUFGbVZPalN4b01zdm8yU1NmVmJkQm0zTHNDbVNlQzVEeUpkcFBSN1Y2RC1NcGE0U0lEZkR3?oc=5",
+    "summary": "Clinical trial shows constipation drug can treat patients with chronic kidney disease &nbsp;&nbsp; Medical Xpress",
+    "date": "2025-08-29 12:30:06",
+    "image": "https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_68x28dp.png"
+  },
+  {
+    "source": "Google News",
+    "title": "Common daily vitamin shown to slow aging process over 4-year period, new Harvard study confirms - New York Post",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMkJiOS1XR01HYWhFMndCRmkyRjEwSEZ3azVSQ05VNTZnMVpsNGlieXh2SlJBNTJrdWhveW50eXl6WTlZaDlMaXljYlJhTkxZQi1ySDFubzF5NXNGSnd3bllkOUQyd2ZYS3FKcWtGNDhxcnMybEZDTHU0bWZ3NV91VDhUdTZicGhOcHVTV0pJZHB2dlRrajZQN3RGYUk1VjlwNmlpZGhZcEJDQjk4?oc=5",
+    "summary": "Common daily vitamin shown to slow aging process over 4-year period, new Harvard study confirms &nbsp;&nbsp; New York Post",
+    "date": "2025-08-29 11:49:00",
+    "image": "https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_68x28dp.png"
+  },
+  {
+    "source": "Google News",
+    "title": "Zydus Lifesciences eyes US filing for chronic liver disease drug saroglitazar after successful PBC trial - CNBC TV18",
+    "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOUjZPYTRDMkwyTWk0OWo3Y2w3QkFyYnJWS1QyYk1CaDh6SGh1aXBobFB5dHQ5czAzSkl4LW83Y1RvQm55eEpMeUF2WGJnTDFTeGpvU1B6R1c4ZWdJWUdRZkh6LTZZLUljcVRubUd5UVdGNUROdEFhNTFGbXJRYWdpSWRUSHhOSEZqQTR3TGREdFRLWjBOb3VEZGs3V3FhN0ViTm1Pa3E5NGoyZ0lfY0pUdnFtMjFiUlJtdmVBRUt4R29xUUlSTmhGNG9Jb0pDaWJRVEJuQWF1bnRSTnE0YTNEVzd1UnIyX25yRFVyeURzc3FDSVR1QnlOaFBMWdIBgAJBVV95cUxPMEg1MWlpekstRllZdHBydXhTRFRDS2hJREZOeFBNMHczdTlpSVJHR19MSmFyV3djMWVzejJReEFrSFE0WWFSWUJXWFI0TDQzRW1GdWRyUFE1T2tsd096bjlxcGZZNnBpN0cyRXhUXzRTWHVIem9zMnp2Uzd3Wk0yOWlJbWVoUmN5ZzhXTk1Od2ZJaGI3aWlYbGZfbVc3U1VzM0FDZ0s2MGpOc3RWbm9GWW9WR3RFV1g5WXJ3QXdhUmtNNFdsTGc2MkR4YVhIUFZPMm1ySnFOeGJXQXFtZzlveXBiMExPbEVySnNjaWxhMVFKQ3VqeFRjOTVOa0l1OWZS?oc=5",
+    "summary": "Zydus Lifesciences eyes US filing for chronic liver disease drug saroglitazar after successful PBC trial &nbsp;&nbsp; CNBC TV18",
+    "date": "2025-08-29 08:50:56",
+    "image": "https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_68x28dp.png"
+  },
+  {
+    "source": "ScienceDaily Health",
+    "title": "Scientists create scalable quantum node linking light and matter",
+    "link": "https://www.sciencedaily.com/releases/2025/08/250829052210.htm",
+    "summary": "Quantum scientists in Innsbruck have taken a major leap toward building the internet of the future. Using a string of calcium ions and finely tuned lasers, they created quantum nodes capable of generating streams of entangled photons with 92% fidelity. This scalable setup could\u2026",
+    "date": "2025-08-29 07:39:41",
+    "image": "https://www.sciencedaily.com/images/1920/powerful-nodes-for-quantum-networks.webp"
+  },
+  {
+    "source": "ScienceDaily Health",
+    "title": "Scientists found 3 simple tweaks that cut diabetes risk by 31%",
+    "link": "https://www.sciencedaily.com/releases/2025/08/250829022835.htm",
+    "summary": "A Mediterranean diet alone is healthy, but when combined with calorie control, exercise, and support, it cuts type 2 diabetes risk by 31%. The PREDIMED-Plus study followed almost 5,000 participants for six years, making it Europe\u2019s largest nutrition trial. Beyond lowering\u2026",
+    "date": "2025-08-29 02:08:48",
+    "image": "https://www.sciencedaily.com/images/1920/greek-salad-and-olive-oil-mediterranean-diet-santorini.webp"
+  },
+  {
+    "source": "ScienceDaily Health",
+    "title": "Lithium deficiency may be the hidden spark behind Alzheimer\u2019s",
+    "link": "https://www.sciencedaily.com/releases/2025/08/250829022829.htm",
+    "summary": "Harvard scientists have uncovered that lithium, a naturally occurring element in the brain, may be the missing piece in understanding Alzheimer\u2019s. Their decade-long research shows that lithium depletion\u2014caused by amyloid plaques binding to it\u2014triggers early brain changes that\u2026",
+    "date": "2025-08-29 01:27:32",
+    "image": "https://www.sciencedaily.com/images/1920/human-brain-boost-power-spark.webp"
+  },
+  {
+    "source": "ScienceDaily Health",
+    "title": "Tiny eye implant becomes the first FDA-approved therapy for rare blindness",
+    "link": "https://www.sciencedaily.com/releases/2025/08/250829022831.htm",
+    "summary": "For people with macular telangiectasia type 2 (MacTel), an orphan retinal disorder that gradually destroys central vision, there have long been no approved treatment options. But now, a new study sponsored by Neurotech Pharmaceuticals and spearheaded by investigators at Scripps\u2026",
+    "date": "2025-08-29 00:58:31",
+    "image": "https://www.sciencedaily.com/images/1920/macular-telangiectasia-type-2-eye-disease.webp"
+  },
+  {
+    "source": "Nature",
+    "title": "Author Correction: Dual neuromodulatory dynamics underlie birdsong learning",
+    "link": "https://www.nature.com/articles/s41586-025-09563-1",
+    "summary": "Nature, Published online: 29 August 2025; doi:10.1038/s41586-025-09563-1 Author Correction: Dual neuromodulatory dynamics underlie birdsong learning",
+    "date": "2025-08-28 18:30:00",
+    "image": "https://pubads.g.doubleclick.net/gampad/ad?iu=/285/nature.com/article&sz=728x90&c=-232999745&t=pos%3Dtop%26type%3Darticle%26artid%3Ds41586-025-09563-1%26doi%3D10.1038/s41586-025-09563-1%26techmeta%3D123,129,64%26subjmeta%3D1595,378,3920,631%26kwrd%3DLearning+and+memory,Neural+circuits"
+  },
+  {
+    "source": "Nature",
+    "title": "When will life expectancy reach 100? No time soon",
+    "link": "https://www.nature.com/articles/d41586-025-02725-1",
+    "summary": "Nature, Published online: 29 August 2025; doi:10.1038/d41586-025-02725-1 Average expected lifespan is still increasing in high-income countries, but the rate of increase is slowing.",
+    "date": "2025-08-28 18:30:00",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-025-02725-1/d41586-025-02725-1_51384002.jpg"
+  },
+  {
+    "source": "Nature",
+    "title": "Audio long read: How to detect consciousness in people, animals and maybe even AI",
+    "link": "https://www.nature.com/articles/d41586-025-02733-1",
+    "summary": "Nature, Published online: 29 August 2025; doi:10.1038/d41586-025-02733-1 Scientists are searching for awareness in all its possible forms \u2014 insights from human brains could inform that quest.",
+    "date": "2025-08-28 18:30:00",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-025-02733-1/d41586-025-02733-1_51345180.jpg"
+  },
+  {
+    "source": "Nature",
+    "title": "The vibrant colours of a house-hunting crab \u2014 August\u2019s best science image",
+    "link": "https://www.nature.com/articles/d41586-025-02736-y",
+    "summary": "Nature, Published online: 29 August 2025; doi:10.1038/d41586-025-02736-y The month\u2019s sharpest science shots, selected by Nature\u2019s photo team.",
+    "date": "2025-08-28 18:30:00",
+    "image": "https://www.nature.com/immersive/d41586-025-02736-y/assets/7FnZNySBtJ/2025-08-30_news_iom-august-opy_orange-crab_sm-1066x600.jpg"
+  },
+  {
+    "source": "Nature",
+    "title": "Research posts on Bluesky are more original \u2014 and get better engagement",
+    "link": "https://www.nature.com/articles/d41586-025-02741-1",
+    "summary": "Nature, Published online: 29 August 2025; doi:10.1038/d41586-025-02741-1 Bluesky posts about science garner more likes and reposts than similar ones on X.",
+    "date": "2025-08-28 18:30:00",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-025-02741-1/d41586-025-02741-1_51387950.jpg"
+  },
+  {
+    "source": "Nature",
+    "title": "How LinkedIn helped me to carve out a career path after my PhD",
+    "link": "https://www.nature.com/articles/d41586-025-02470-5",
+    "summary": "Nature, Published online: 29 August 2025; doi:10.1038/d41586-025-02470-5 The professional-networking platform helped Elena Hoffer to launch a company and sparked a global conversation to re-imagine academia.",
+    "date": "2025-08-28 18:30:00",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-025-02470-5/d41586-025-02470-5_51348968.jpg"
+  },
+  {
+    "source": "Nature",
+    "title": "Spouses tend to share psychiatric disorders, massive study finds",
+    "link": "https://www.nature.com/articles/d41586-025-02772-8",
+    "summary": "Nature, Published online: 29 August 2025; doi:10.1038/d41586-025-02772-8 Analysis of almost 15 million people shows the trend increases with each decade, across cultures and generations.",
+    "date": "2025-08-28 18:30:00",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-025-02772-8/d41586-025-02772-8_51392090.jpg"
+  },
+  {
+    "source": "Nature",
+    "title": "Trump called for \u2018gold-standard science\u2019: how the NIH, NSF and others are answering",
+    "link": "https://www.nature.com/articles/d41586-025-02770-w",
+    "summary": "Nature, Published online: 29 August 2025; doi:10.1038/d41586-025-02770-w Some researchers say that US-agency policies provide opportunities for political interference.",
+    "date": "2025-08-28 18:30:00",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-025-02770-w/d41586-025-02770-w_51396180.jpg"
+  },
+  {
+    "source": "Nature",
+    "title": "Why scientists are flocking to Substack",
+    "link": "https://www.nature.com/articles/d41586-025-02497-8",
+    "summary": "Nature, Published online: 29 August 2025; doi:10.1038/d41586-025-02497-8 A new generation of researchers is using the platform to build audiences and monetize their knowledge.",
+    "date": "2025-08-28 18:30:00",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-025-02497-8/d41586-025-02497-8_51339670.jpg"
+  },
+  {
+    "source": "Nature",
+    "title": "Hundreds of suspicious journals flagged by AI screening tool",
+    "link": "https://www.nature.com/articles/d41586-025-02782-6",
+    "summary": "Nature, Published online: 29 August 2025; doi:10.1038/d41586-025-02782-6 System that searches for signs of bad practice could help to weed out questionable titles.",
+    "date": "2025-08-28 18:30:00",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-025-02782-6/d41586-025-02782-6_51392510.jpg"
+  },
+  {
+    "source": "Google News",
+    "title": "Surgery to treat chronic sinus disease more effective than antibiotics, clinical trial finds - Medical Xpress",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPam43Z3RKeTQ0Skp3amJaTTZkdm5sZXJ5LURzTlNfcjBRamFXNzl0d0ZRN2txbm5NVXN2Y09pR3J2VHI5TExyUlFYN3YtRHRVT3BFbWdnZTA5cnlMcTFRT2ZJU2Z4cTNyXzdHemxHN3Fhc2NxeHhBODhwRTk1a2tUTFMxWHNveXhIQy0w?oc=5",
+    "summary": "Surgery to treat chronic sinus disease more effective than antibiotics, clinical trial finds &nbsp;&nbsp; Medical Xpress",
+    "date": "2025-08-28 17:00:03",
+    "image": "https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_68x28dp.png"
+  },
+  {
+    "source": "Google News",
+    "title": "4 things to know about a new study on lithium and Alzheimer\u2019s disease - PBS",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU2wtbjM4UU0tcmpEOXlwX0RLT1Rqbm1DSlZVQ3ZTV2pnSVQ2WnZOajhVbVREQWNneGlDXzQyMG1nRmxmekk4ZXVIMS1jbUN2WF84ZG85Y0szSUVaZ1U5U3g5QllySFBjM3l1ZU1leDZ2UXdobjhGSC1la2tVV3VZWS0xM0JQbGI4Wkx3REdkYWN1TWlhY0J3QVRCdmFvcFZ2TEF3V3FQZkbSAa4BQVVfeXFMTVFqWG5DcmkyMnZjVHdqcGwyNGRnVm1rLV9MTFhJUXA3S1Fmd01EVkpMSkNhdTVkV2N3SXZIRDlKcVhNVnlkSnNkYVpKanFXRmxXaWhfRnNHSmtGZWxHbHQtczlycURFZVRvbGdNbGhiTWtRZ1Rfa2lMRm9YQWVoZ0RqVEVJZ1hxeE4tQ3FzNEt0T3NUT1VmQUtFLWdXX01GMy1raTFmd1o1VkxiQjd3?oc=5",
+    "summary": "4 things to know about a new study on lithium and Alzheimer\u2019s disease &nbsp;&nbsp; PBS",
+    "date": "2025-08-28 15:40:00",
+    "image": "https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_68x28dp.png"
+  },
+  {
+    "source": "ScienceDaily Health",
+    "title": "Cannabis for coping? Why it may trigger paranoia",
+    "link": "https://www.sciencedaily.com/releases/2025/08/250828002404.htm",
+    "summary": "Using cannabis to self-medicate comes with hidden dangers\u2014new research shows these users face higher paranoia and consume more THC. Childhood trauma further amplifies the risks, especially emotional abuse, which strongly predicts paranoia.",
+    "date": "2025-08-28 07:00:07",
+    "image": "https://www.sciencedaily.com/images/1920/paranoid-delusion-scared-woman.webp"
+  },
+  {
+    "source": "ScienceDaily Health",
+    "title": "This simple diet could help protect memory, even with Alzheimer\u2019s genes",
+    "link": "https://www.sciencedaily.com/releases/2025/08/250828060035.htm",
+    "summary": "A Mediterranean-style diet was linked to lower dementia risk, especially in people with high-risk Alzheimer\u2019s genes. The strongest benefits were seen in those with two APOE4 copies, showing diet may help offset genetic vulnerability. Researchers say food may influence key\u2026",
+    "date": "2025-08-28 06:24:29",
+    "image": "https://www.sciencedaily.com/images/1920/grilled-salmon-vegetable-salad-close.webp"
+  },
+  {
+    "source": "Nature",
+    "title": "Author Correction: Endophilin marks and controls a clathrin-independent endocytic pathway",
+    "link": "https://www.nature.com/articles/s41586-025-09552-4",
+    "summary": "Nature, Published online: 28 August 2025; doi:10.1038/s41586-025-09552-4 Author Correction: Endophilin marks and controls a clathrin-independent endocytic pathway",
+    "date": "2025-08-27 18:30:00",
+    "image": "https://pubads.g.doubleclick.net/gampad/ad?iu=/285/nature.com/article&sz=728x90&c=-586347913&t=pos%3Dtop%26type%3Darticle%26artid%3Ds41586-025-09552-4%26doi%3D10.1038/s41586-025-09552-4%26subjmeta%3D1461,1756,2375,313,631,80,84%26kwrd%3DEndocytosis,Lamellipodia,Membrane+curvature"
+  },
+  {
+    "source": "Nature",
+    "title": "This deep-sea worm creates a toxic yellow pigment found in Rembrandt and C\u00e9zanne paintings",
+    "link": "https://www.nature.com/articles/d41586-025-02771-9",
+    "summary": "Nature, Published online: 28 August 2025; doi:10.1038/d41586-025-02771-9 Paralvinella hessleri is the first known animal to create orpiment, which was used by artists for centuries.",
+    "date": "2025-08-27 18:30:00",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-025-02771-9/d41586-025-02771-9_51392072.jpg"
+  },
+  {
+    "source": "Nature",
+    "title": "Even dinosaurs weren\u2019t safe from this giant croc-like predator",
+    "link": "https://www.nature.com/articles/d41586-025-02727-z",
+    "summary": "Nature, Published online: 28 August 2025; doi:10.1038/d41586-025-02727-z The creature might have been more than 3.5 metres long, with powerful jaws and serrated, flesh-cutting teeth.",
+    "date": "2025-08-27 18:30:00",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-025-02727-z/d41586-025-02727-z_51384152.jpg"
+  },
+  {
+    "source": "Nature",
+    "title": "Beer lovers fall into two flavour camps \u2014 which one are you in?",
+    "link": "https://www.nature.com/articles/d41586-025-02709-1",
+    "summary": "Nature, Published online: 28 August 2025; doi:10.1038/d41586-025-02709-1 Research shows that beer drinkers are split depending on which types of flavour chemicals they prefer.",
+    "date": "2025-08-27 18:30:00",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-025-02709-1/d41586-025-02709-1_51383622.jpg"
+  },
+  {
+    "source": "Nature",
+    "title": "Daily briefing: Deliberate fearmongering spread like a virus through revolutionary France",
+    "link": "https://www.nature.com/articles/d41586-025-02783-5",
+    "summary": "Nature, Published online: 28 August 2025; doi:10.1038/d41586-025-02783-5 Rumours that fuelled the Great Fear in revolutionary France were transmitted similarly to a viral disease. Plus, glow-in-the-dark succulents and a new treatment for acne.",
+    "date": "2025-08-27 18:30:00",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-025-02783-5/d41586-025-02783-5_51392460.png"
+  },
+  {
+    "source": "ScienceDaily Health",
+    "title": "More likely to be struck by lightning than get tetanus. So why the boosters?",
+    "link": "https://www.sciencedaily.com/releases/2025/08/250827010734.htm",
+    "summary": "Researchers propose that the U.S. could safely drop adult tetanus and diphtheria boosters, saving $1 billion annually, since childhood vaccinations provide decades of protection. Evidence from the U.K. shows that skipping boosters has not led to higher disease rates.",
+    "date": "2025-08-27 09:46:28",
+    "image": "https://www.sciencedaily.com/images/1920/woman-refusing-vaccine.webp"
+  },
+  {
+    "source": "ScienceDaily Health",
+    "title": "The hidden DNA organizer linking fertility and cancer",
+    "link": "https://www.sciencedaily.com/releases/2025/08/250826005229.htm",
+    "summary": "Scientists at Kyoto University have uncovered a hidden protein complex that organizes DNA in sperm stem cells, a discovery that reveals surprising ties between fertility and cancer. When this protein, called STAG3, is missing, sperm stem cells cannot mature properly, leading to\u2026",
+    "date": "2025-08-26 21:36:39",
+    "image": "https://www.sciencedaily.com/images/1920/genetics-dna-sperm-egg-fertility.webp"
+  },
+  {
+    "source": "Nature",
+    "title": "Retraction Note: Crystal structures of agonist-bound human cannabinoid receptor CB<sub>1</sub>",
+    "link": "https://www.nature.com/articles/s41586-025-09538-2",
+    "summary": "Nature, Published online: 27 August 2025; doi:10.1038/s41586-025-09538-2 Retraction Note: Crystal structures of agonist-bound human cannabinoid receptor CB 1",
+    "date": "2025-08-26 18:30:00",
+    "image": "https://pubads.g.doubleclick.net/gampad/ad?iu=/285/nature.com/article&sz=728x90&c=547209172&t=pos%3Dtop%26type%3Darticle%26artid%3Ds41586-025-09538-2%26doi%3D10.1038/s41586-025-09538-2%26kwrd%3DScience%2C+Humanities+and+Social+Sciences%2C+multidisciplinary,Science%2C+multidisciplinary"
+  },
+  {
+    "source": "Nature",
+    "title": "Skin: preserving the health of a multi-talented organ",
+    "link": "https://www.nature.com/articles/d41586-025-02645-0",
+    "summary": "Nature, Published online: 27 August 2025; doi:10.1038/d41586-025-02645-0 Longer-lasting treatments and smarter care practices can protect and repair the most visible part of the body.",
+    "date": "2025-08-26 18:30:00",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-025-02645-0/d41586-025-02645-0_51331486.jpg"
+  },
+  {
+    "source": "Nature",
+    "title": "Viral spread: how rumours surged in revolutionary France",
+    "link": "https://www.nature.com/articles/d41586-025-02749-7",
+    "summary": "Nature, Published online: 27 August 2025; doi:10.1038/d41586-025-02749-7 Modern epidemiological models shed light on the causes of the \u2018Great Fear\u2019 \u2014 plus, Nature\u2019s big quantum interpretation quiz.",
+    "date": "2025-08-26 18:30:00",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-025-02749-7/d41586-025-02749-7_51387812.jpg"
+  },
+  {
+    "source": "Nature",
+    "title": "Five single-celled species that dabble in multicellularity",
+    "link": "https://www.nature.com/articles/d41586-025-02707-3",
+    "summary": "Nature, Published online: 27 August 2025; doi:10.1038/d41586-025-02707-3 Animals\u2019 closest cousins provide insight into how we became multicellular creatures.",
+    "date": "2025-08-26 18:30:00",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-025-02707-3/d41586-025-02707-3_51363774.jpg"
+  },
+  {
+    "source": "Nature",
+    "title": "Bright city lights make birds around the world sing longer",
+    "link": "https://www.nature.com/articles/d41586-025-02726-0",
+    "summary": "Nature, Published online: 27 August 2025; doi:10.1038/d41586-025-02726-0 Big-eyed species are especially vulnerable to the effects of light pollution, a citizen-science effort shows.",
+    "date": "2025-08-26 18:30:00",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-025-02726-0/d41586-025-02726-0_51383814.jpg"
+  },
+  {
+    "source": "Nature",
+    "title": "AI versus skin cancer: the future of dermatology diagnosis",
+    "link": "https://www.nature.com/articles/d41586-025-02738-w",
+    "summary": "Nature, Published online: 27 August 2025; doi:10.1038/d41586-025-02738-w England\u2019s health service is trialling an artificial-intelligence tool that can identify skin cancer as accurately as a physician.",
+    "date": "2025-08-26 18:30:00",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-025-02738-w/d41586-025-02738-w_51384240.jpg"
+  },
+  {
+    "source": "Nature",
+    "title": "Ultrabroadband on-chip photonics for full-spectrum wireless communications",
+    "link": "https://www.nature.com/articles/s41586-025-09451-8",
+    "summary": "Nature, Published online: 27 August 2025; doi:10.1038/s41586-025-09451-8 Adaptive wireless communication over an unprecedented frequency range spanning over 100 GHz can be achieved by a thin-film lithium niobate photonic wireless system, which can process a large flux of\u2026",
+    "date": "2025-08-26 18:30:00",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-025-09451-8/MediaObjects/41586_2025_9451_Fig1_HTML.png"
+  },
+  {
+    "source": "Nature",
+    "title": "Thioester-mediated RNA aminoacylation and peptidyl-RNA synthesis in water",
+    "link": "https://www.nature.com/articles/s41586-025-09388-y",
+    "summary": "Nature, Published online: 27 August 2025; doi:10.1038/s41586-025-09388-y Aminoacyl-thiols reacting selectively with RNA diols over amine nucleophiles and demonstration of chemically controlled formation of peptidyl-RNA in water at neutral pH suggest an important role for thiol\u2026",
+    "date": "2025-08-26 18:30:00",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-025-09388-y/MediaObjects/41586_2025_9388_Fig1_HTML.png"
+  },
+  {
+    "source": "Nature",
+    "title": "Mapping urban gullies in the Democratic Republic of the Congo",
+    "link": "https://www.nature.com/articles/s41586-025-09371-7",
+    "summary": "Nature, Published online: 27 August 2025; doi:10.1038/s41586-025-09371-7 An assessment at the scale of the Democratic Republic of the Congo shows that urban gullies are a growing problem, with 118,600 people displaced between 2004 and 2023.",
+    "date": "2025-08-26 18:30:00",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-025-09371-7/MediaObjects/41586_2025_9371_Fig1_HTML.png"
+  },
+  {
+    "source": "Nature",
+    "title": "Rate and noise in human amygdala drive increased exploration in aversive learning",
+    "link": "https://www.nature.com/articles/s41586-025-09466-1",
+    "summary": "Nature, Published online: 27 August 2025; doi:10.1038/s41586-025-09466-1 Human exploration is driven by two distinct neural mechanisms, a valence-independent rate signal and a valence-dependent global noise signal.",
+    "date": "2025-08-26 18:30:00",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-025-09466-1/MediaObjects/41586_2025_9466_Fig1_HTML.png"
+  },
+  {
+    "source": "Nature",
+    "title": "Crystal structures of agonist-bound human cannabinoid receptor CB<sub>1</sub>",
+    "link": "https://www.nature.com/articles/s41586-025-09454-5",
+    "summary": "Nature, Published online: 27 August 2025; doi:10.1038/s41586-025-09454-5 Crystal structures of human CB1 bound to two cannabinoid agonists reveal key features, including a twin toggle switch and binding pocket reduction, advancing understanding of receptor dynamics and guiding\u2026",
+    "date": "2025-08-26 18:30:00",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-025-09454-5/MediaObjects/41586_2025_9454_Fig1_HTML.png"
+  },
+  {
+    "source": "Nature",
+    "title": "Maternal stress triggers early-life eczema through fetal mast cell programming",
+    "link": "https://www.nature.com/articles/s41586-025-09419-8",
+    "summary": "Nature, Published online: 27 August 2025; doi:10.1038/s41586-025-09419-8 Prenatal stress triggers molecular dysregulations in fetal neuroimmune circuits, leading to altered mast cell and sensory neuron function, which predisposes offspring to develop eczema in response to\u2026",
+    "date": "2025-08-26 18:30:00",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-025-09419-8/MediaObjects/41586_2025_9419_Fig1_HTML.png"
+  },
+  {
+    "source": "Nature",
+    "title": "Electrically driven lasing from a dual-cavity perovskite device",
+    "link": "https://www.nature.com/articles/s41586-025-09457-2",
+    "summary": "Nature, Published online: 27 August 2025; doi:10.1038/s41586-025-09457-2 An electrically driven perovskite laser is constructed by vertically integrating a low-threshold single-crystal perovskite microcavity sub-unit with a high-power microcavity perovskite LED sub-unit.",
+    "date": "2025-08-26 18:30:00",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-025-09457-2/MediaObjects/41586_2025_9457_Fig1_HTML.png"
+  },
+  {
+    "source": "Nature",
+    "title": "Mechanical confinement governs phenotypic plasticity in melanoma",
+    "link": "https://www.nature.com/articles/s41586-025-09445-6",
+    "summary": "Nature, Published online: 27 August 2025; doi:10.1038/s41586-025-09445-6 Mechanical confinement of cancer cells at the tumour\u2013microenvironment interface induces phenotype switching through chromatin remodelling by HMGB2, leading to a more invasive and drug-resistant state in\u2026",
+    "date": "2025-08-26 18:30:00",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-025-09445-6/MediaObjects/41586_2025_9445_Fig1_HTML.png"
+  },
+  {
+    "source": "Nature",
+    "title": "Neural networks of the mouse visceromotor cortex",
+    "link": "https://www.nature.com/articles/s41586-025-09360-w",
+    "summary": "Nature, Published online: 27 August 2025; doi:10.1038/s41586-025-09360-w The dorsal peduncular area of the mouse brain functions as a network hub that integrates diverse cortical and thalamic inputs to regulate neuroendocrine and autonomic responses.",
+    "date": "2025-08-26 18:30:00",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-025-09360-w/MediaObjects/41586_2025_9360_Fig1_HTML.png"
+  },
+  {
+    "source": "Nature",
+    "title": "Two-billion-year transitional oxygenation of the Earth\u2019s surface",
+    "link": "https://www.nature.com/articles/s41586-025-09471-4",
+    "summary": "Nature, Published online: 27 August 2025; doi:10.1038/s41586-025-09471-4 A 2.5-billion-year record of oxygen isotopes in sedimentary sulfate reveals the transitional oxygenation of the Earth\u2019s surface and provides constraints on the dynamic, lengthy co-oxygenation of Earth\u2019s\u2026",
+    "date": "2025-08-26 18:30:00",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-025-09471-4/MediaObjects/41586_2025_9471_Fig1_HTML.png"
+  },
+  {
+    "source": "Nature",
+    "title": "One-shot design of functional protein binders with BindCraft",
+    "link": "https://www.nature.com/articles/s41586-025-09429-6",
+    "summary": "Nature, Published online: 27 August 2025; doi:10.1038/s41586-025-09429-6 BindCraft, an open-source, automated pipeline for de novo protein binder design with experimental success rates of 10\u2013100%, leverages AlphaFold2 weights to generate binders with nanomolar affinity without\u2026",
+    "date": "2025-08-26 18:30:00",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-025-09429-6/MediaObjects/41586_2025_9429_Fig1_HTML.png"
+  },
+  {
+    "source": "Nature",
+    "title": "Topological prethermal strong zero modes on superconducting processors",
+    "link": "https://www.nature.com/articles/s41586-025-09476-z",
+    "summary": "Nature, Published online: 27 August 2025; doi:10.1038/s41586-025-09476-z Stable and robust topological edge modes are observed at finite temperatures in an array of 100 programmable superconducting qubits because of emergent symmetries present in the prethermal regime of this\u2026",
+    "date": "2025-08-26 18:30:00",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-025-09476-z/MediaObjects/41586_2025_9476_Fig1_HTML.png"
+  },
+  {
+    "source": "Nature",
+    "title": "Microbial iron oxide respiration coupled to sulfide oxidation",
+    "link": "https://www.nature.com/articles/s41586-025-09467-0",
+    "summary": "Nature, Published online: 27 August 2025; doi:10.1038/s41586-025-09467-0 Genomic and biochemical analyses of prokaryotic sulfur metabolism identify diverse microorganisms with the capacity to oxidize sulfide using iron(iii).",
+    "date": "2025-08-26 18:30:00",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-025-09467-0/MediaObjects/41586_2025_9467_Fig1_HTML.png"
+  },
+  {
+    "source": "Nature",
+    "title": "Attosecond control and measurement of chiral photoionization dynamics",
+    "link": "https://www.nature.com/articles/s41586-025-09455-4",
+    "summary": "Nature, Published online: 27 August 2025; doi:10.1038/s41586-025-09455-4 By introducing chiroptical spectroscopy with attosecond pulses, attosecond coherent control over photoelectron circular dichroism is demonstrated and measurements of chiral asymmetries in the\u2026",
+    "date": "2025-08-26 18:30:00",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-025-09455-4/MediaObjects/41586_2025_9455_Fig1_HTML.png"
+  },
+  {
+    "source": "Nature",
+    "title": "Global phenology maps reveal the drivers and effects of seasonal asynchrony",
+    "link": "https://www.nature.com/articles/s41586-025-09410-3",
+    "summary": "Nature, Published online: 27 August 2025; doi:10.1038/s41586-025-09410-3 A global land surface phenology map predicts complex geographical discontinuities in flowering phenology, genetic divergence and harvest seasonality across a range of taxa.",
+    "date": "2025-08-26 18:30:00",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-025-09410-3/MediaObjects/41586_2025_9410_Fig1_HTML.png"
+  },
+  {
+    "source": "Nature",
+    "title": "Haematopoietic stem cell number is not solely defined by niche availability",
+    "link": "https://www.nature.com/articles/s41586-025-09462-5",
+    "summary": "Nature, Published online: 27 August 2025; doi:10.1038/s41586-025-09462-5 Haematopoietic stem cell numbers are restricted at both systemic and local levels.",
+    "date": "2025-08-26 18:30:00",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-025-09462-5/MediaObjects/41586_2025_9462_Fig1_HTML.png"
+  },
+  {
+    "source": "Nature",
+    "title": "Dual-scale chemical ordering for cryogenic properties in CoNiV-based alloys",
+    "link": "https://www.nature.com/articles/s41586-025-09458-1",
+    "summary": "Nature, Published online: 27 August 2025; doi:10.1038/s41586-025-09458-1 Dual-scale chemical ordering in CoNiV-based alloys improves the synergy of strength and ductility at cryogenic temperatures, providing an approach for obtaining high-performance metallic materials for\u2026",
+    "date": "2025-08-26 18:30:00",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-025-09458-1/MediaObjects/41586_2025_9458_Fig1_HTML.png"
+  },
+  {
+    "source": "Nature",
+    "title": "A compressed hierarchy for visual form processing in the tree shrew",
+    "link": "https://www.nature.com/articles/s41586-025-09441-w",
+    "summary": "Nature, Published online: 27 August 2025; doi:10.1038/s41586-025-09441-w Tree shrews show a primate-like hierarchical organization in their visual pathway and object decoding accuracy, along with strongly face-selective cells, demonstrating how core computational principles of\u2026",
+    "date": "2025-08-26 18:30:00",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-025-09441-w/MediaObjects/41586_2025_9441_Fig1_HTML.png"
+  },
+  {
+    "source": "Nature",
+    "title": "Cocaine chemogenetics blunts drug-seeking by synthetic physiology",
+    "link": "https://www.nature.com/articles/s41586-025-09427-8",
+    "summary": "Nature, Published online: 27 August 2025; doi:10.1038/s41586-025-09427-8 Cocaine chemogenetics in rats is a selective approach for countering drug reinforcement by clamping dopamine release in the presence of cocaine.",
+    "date": "2025-08-26 18:30:00",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-025-09427-8/MediaObjects/41586_2025_9427_Fig1_HTML.png"
+  },
+  {
+    "source": "Nature",
+    "title": "Optical generative models",
+    "link": "https://www.nature.com/articles/s41586-025-09446-5",
+    "summary": "Nature, Published online: 27 August 2025; doi:10.1038/s41586-025-09446-5 Optical generative models are demonstrated for the rapid and power-efficient creation of never-seen-before images of handwritten digits, fashion products, butterflies, human faces and Van Gogh-style\u2026",
+    "date": "2025-08-26 18:30:00",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-025-09446-5/MediaObjects/41586_2025_9446_Fig1_HTML.png"
+  },
+  {
+    "source": "Nature",
+    "title": "The evolution of hominin bipedalism in two steps",
+    "link": "https://www.nature.com/articles/s41586-025-09399-9",
+    "summary": "Nature, Published online: 27 August 2025; doi:10.1038/s41586-025-09399-9 The human pelvis exhibits distinct spatiotemporal ossification patterns and an ilium cartilage growth plate that is shifted perpendicularly compared with those of other mammals and non-human primates\u2014two\u2026",
+    "date": "2025-08-26 18:30:00",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-025-09399-9/MediaObjects/41586_2025_9399_Fig1_HTML.png"
+  },
+  {
+    "source": "Nature",
+    "title": "Extreme armour in the world\u2019s oldest ankylosaur",
+    "link": "https://www.nature.com/articles/s41586-025-09453-6",
+    "summary": "Nature, Published online: 27 August 2025; doi:10.1038/s41586-025-09453-6 The ankylosaurian dinosaur Spicomellus afer possessed a tail weapon and uniquely elaborate dermal armour.",
+    "date": "2025-08-26 18:30:00",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-025-09453-6/MediaObjects/41586_2025_9453_Fig1_HTML.png"
+  },
+  {
+    "source": "Nature",
+    "title": "Epidemiology models explain rumour spreading during France\u2019s Great Fear of 1789",
+    "link": "https://www.nature.com/articles/s41586-025-09392-2",
+    "summary": "Nature, Published online: 27 August 2025; doi:10.1038/s41586-025-09392-2 Epidemiological methods are used to show that the Great Fear of 1789, a series of peasant insurrections in rural revolutionary France, was driven by deliberate political action rather than spontaneous fear.",
+    "date": "2025-08-26 18:30:00",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-025-09392-2/MediaObjects/41586_2025_9392_Fig1_HTML.png"
+  },
+  {
+    "source": "Nature",
+    "title": "A psoriasis cure could be in touching distance",
+    "link": "https://www.nature.com/articles/d41586-025-02649-w",
+    "summary": "Nature, Published online: 27 August 2025; doi:10.1038/d41586-025-02649-w Today\u2019s antibody therapies must be taken for life to avoid severe setbacks. Researchers are pushing for a more durable treatment.",
+    "date": "2025-08-26 18:30:00",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-025-02649-w/d41586-025-02649-w_51335830.jpg"
+  },
+  {
+    "source": "Nature",
+    "title": "Five highlights from skin research",
+    "link": "https://www.nature.com/articles/d41586-025-02651-2",
+    "summary": "Nature, Published online: 27 August 2025; doi:10.1038/d41586-025-02651-2 Demystifying itching, giving robots facial expressions, and other key studies and trials.",
+    "date": "2025-08-26 18:30:00",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-025-02651-2/d41586-025-02651-2_51331504.jpg"
+  },
+  {
+    "source": "Nature",
+    "title": "Hazardous science that helps to save and improve lives needs more support",
+    "link": "https://www.nature.com/articles/d41586-025-02684-7",
+    "summary": "Nature, Published online: 27 August 2025; doi:10.1038/d41586-025-02684-7 Research into the growing environmental problem of urban gullies highlights the challenging conditions under which many socially important studies are done.",
+    "date": "2025-08-26 18:30:00",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-025-02684-7/d41586-025-02684-7_51367976.jpg"
+  },
+  {
+    "source": "Nature",
+    "title": "How humans became upright: key changes to our pelvis found",
+    "link": "https://www.nature.com/articles/d41586-025-02734-0",
+    "summary": "Nature, Published online: 27 August 2025; doi:10.1038/d41586-025-02734-0 Genetic and anatomical data reveal how the human pelvis acquired its unique shape, enabling our ancestors to walk on two legs.",
+    "date": "2025-08-26 18:30:00",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-025-02734-0/d41586-025-02734-0_51387840.jpg"
+  },
+  {
+    "source": "Nature",
+    "title": "How did life get multicellular? Five simple organisms could have the answer",
+    "link": "https://www.nature.com/articles/d41586-025-02635-2",
+    "summary": "Nature, Published online: 27 August 2025; doi:10.1038/d41586-025-02635-2 Single-celled species that often stick together in colonies have researchers rethinking the origin of animals.",
+    "date": "2025-08-26 18:30:00",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-025-02635-2/d41586-025-02635-2_51368370.jpg"
+  },
+  {
+    "source": "Nature",
+    "title": "Dermatology has a skin-colour dilemma",
+    "link": "https://www.nature.com/articles/d41586-025-02555-1",
+    "summary": "Nature, Published online: 27 August 2025; doi:10.1038/d41586-025-02555-1 Classifications drawn from outmoded concepts of race impede research and clinical practice.",
+    "date": "2025-08-26 18:30:00",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-025-02555-1/d41586-025-02555-1_51331084.jpg"
+  },
+  {
+    "source": "ScienceDaily Health",
+    "title": "Scientists crack indole\u2019s toughest bond with copper, unlocking new medicines",
+    "link": "https://www.sciencedaily.com/releases/2025/08/250826005224.htm",
+    "summary": "Scientists have cracked one of chemistry\u2019s toughest challenges with indoles, using copper to unlock a spot once thought too stubborn to change. The discovery could pave the way for easier, cheaper drug development.",
+    "date": "2025-08-26 08:08:36",
+    "image": "https://www.sciencedaily.com/images/1920/transforming-gas-into-fuels-with-better-alloys.webp"
+  },
+  {
+    "source": "ScienceDaily Health",
+    "title": "The surprising reason x-rays can push arthritis patients toward surgery",
+    "link": "https://www.sciencedaily.com/releases/2025/08/250826081915.htm",
+    "summary": "Knee osteoarthritis is a major cause of pain and disability, but routine X-rays often do more harm than good. New research shows that being shown an X-ray can increase anxiety, make people fear exercise, and lead them to believe surgery is the only option, even when less\u2026",
+    "date": "2025-08-26 07:57:09",
+    "image": "https://www.sciencedaily.com/images/1920/arthritis-knee-pain.webp"
+  },
+  {
+    "source": "ScienceDaily Health",
+    "title": "The common cold\u2019s unexpected superpower against COVID",
+    "link": "https://www.sciencedaily.com/releases/2025/08/250826005217.htm",
+    "summary": "A nationwide study found that recent colds caused by rhinoviruses can give short-term protection against COVID-19. Children benefit most, as their immune systems react strongly with antiviral defenses, helping explain their lower rates of severe illness.",
+    "date": "2025-08-26 03:24:56",
+    "image": "https://www.sciencedaily.com/images/1920/little-boy-sick-cold-blowing-nose.webp"
+  },
+  {
+    "source": "ScienceDaily Health",
+    "title": "9 in 10 Australian Teachers Are Stressed to Breaking Point",
+    "link": "https://www.sciencedaily.com/releases/2025/08/250826005215.htm",
+    "summary": "Australian teachers are in crisis, with 9 in 10 experiencing severe stress and nearly 70% saying their workload is unmanageable. A major UNSW Sydney study found teachers suffer depression, anxiety, and stress at rates three to four times higher than the national average, largely\u2026",
+    "date": "2025-08-26 02:38:13",
+    "image": "https://www.sciencedaily.com/images/1920/stressed-teacher-at-desk.webp"
+  },
+  {
+    "source": "ScienceDaily Health",
+    "title": "Common painkillers like Advil and Tylenol supercharge antibiotic resistance",
+    "link": "https://www.sciencedaily.com/releases/2025/08/250826005209.htm",
+    "summary": "Painkillers we often trust \u2014 ibuprofen and acetaminophen \u2014 may be quietly accelerating one of the world\u2019s greatest health crises: antibiotic resistance. Researchers discovered that these drugs not only fuel bacterial resistance on their own but make it far worse when combined\u2026",
+    "date": "2025-08-26 01:30:29",
+    "image": "https://www.sciencedaily.com/images/1920/tylenol-extra-strength-acetaminophen-medicine-caplets.webp"
+  },
+  {
+    "source": "ScienceDaily Health",
+    "title": "Rats walk again after breakthrough spinal cord repair with 3D printing",
+    "link": "https://www.sciencedaily.com/releases/2025/08/250826005226.htm",
+    "summary": "University of Minnesota researchers developed a 3D-printed scaffold that directs stem cells to grow into functioning nerve cells, successfully restoring movement in rats with severed spinal cords. This promising technique could transform future treatment for spinal cord injuries.",
+    "date": "2025-08-25 23:22:26",
+    "image": "https://www.sciencedaily.com/images/1920/3d-printed-framework-for-lab-grown-organs.webp"
+  },
+  {
+    "source": "ScienceDaily Health",
+    "title": "Maui\u2019s fires drove a 67% jump in deaths. Most went uncounted",
+    "link": "https://www.sciencedaily.com/releases/2025/08/250825234019.htm",
+    "summary": "Researchers uncovered that the Maui wildfires caused a spike in deaths far higher than reported, with hidden fatalities linked to fire, smoke, and lack of medical access. They warn that prevention rooted in Native Hawaiian ecological knowledge is critical to avoiding another\u2026",
+    "date": "2025-08-25 22:27:00",
+    "image": null
+  },
+  {
+    "source": "ScienceDaily Health",
+    "title": "Ocean air may add years to your life, research shows",
+    "link": "https://www.sciencedaily.com/releases/2025/08/250825015707.htm",
+    "summary": "Living near the ocean may actually help you live longer. A new nationwide study found that people in coastal regions enjoy life expectancies a year or more above the U.S. average, while city dwellers near inland rivers and lakes may face shorter lifespans. Researchers suggest\u2026",
+    "date": "2025-08-25 22:06:09",
+    "image": null
+  },
+  {
+    "source": "ScienceDaily Health",
+    "title": "Eating meat may protect against cancer, landmark research shows",
+    "link": "https://www.sciencedaily.com/releases/2025/08/250825015640.htm",
+    "summary": "A large study of nearly 16,000 adults found no link between eating animal protein and higher death risk. Surprisingly, higher animal protein intake was associated with lower cancer mortality, supporting its role in a balanced, health-promoting diet.",
+    "date": "2025-08-25 04:19:54",
+    "image": null
+  },
+  {
+    "source": "ScienceDaily Health",
+    "title": "Artificial sweeteners could soon taste just like sugar",
+    "link": "https://www.sciencedaily.com/releases/2025/08/250825015638.htm",
+    "summary": "Scientists have identified compounds that block bitter taste receptors activated by saccharin and acesulfame K. The most promising is (R)-(-)-carvone, which reduces bitterness without the cooling side effect of menthol, potentially making sugar-free products much more palatable.",
+    "date": "2025-08-25 03:51:49",
+    "image": null
+  },
+  {
+    "source": "ScienceDaily Health",
+    "title": "A hidden sugar source in ketchup, salad dressing, and toothpaste",
+    "link": "https://www.sciencedaily.com/releases/2025/08/250825015635.htm",
+    "summary": "UBC researchers revealed that gut bacteria can digest cellulose-based food thickeners, once thought indigestible, by using enzymes activated by natural dietary fibers. This discovery suggests these common additives may play a more active role in our nutrition than previously\u2026",
+    "date": "2025-08-25 03:05:05",
+    "image": null
+  },
+  {
+    "source": "ScienceDaily Health",
+    "title": "Your brain works overtime at night to burn fat and prevent sugar crashes",
+    "link": "https://www.sciencedaily.com/releases/2025/08/250824031536.htm",
+    "summary": "Researchers uncovered that hypothalamic neurons safeguard blood sugar overnight by directing fat breakdown, preventing hypoglycemia during early sleep. This subtle control system may explain abnormal metabolism in prediabetes.",
+    "date": "2025-08-24 09:11:13",
+    "image": null
+  },
+  {
+    "source": "ScienceDaily Health",
+    "title": "Why irregular sleep puts heart failure patients in danger",
+    "link": "https://www.sciencedaily.com/releases/2025/08/250824031534.htm",
+    "summary": "Researchers discovered that heart failure patients with inconsistent sleep patterns were more than twice as likely to experience serious setbacks within six months. The risk remained high even when accounting for sleep disorders and other conditions. The team believes improving\u2026",
+    "date": "2025-08-24 08:50:39",
+    "image": null
+  },
+  {
+    "source": "ScienceDaily Health",
+    "title": "Stopping time in cells exposes life\u2019s fastest secrets",
+    "link": "https://www.sciencedaily.com/releases/2025/08/250824031525.htm",
+    "summary": "Scientists have developed a groundbreaking cryo-optical microscopy technique that freezes living cells mid-action, capturing ultra-detailed snapshots of fast biological processes. By rapidly immobilizing cells at precise moments, researchers can overcome the limitations of\u2026",
+    "date": "2025-08-24 04:14:08",
+    "image": null
+  },
+  {
+    "source": "ScienceDaily Health",
+    "title": "Tiny green tea beads trap fat and melt away pounds without side effects",
+    "link": "https://www.sciencedaily.com/releases/2025/08/250822073820.htm",
+    "summary": "Researchers have created plant-based microbeads that trap fat in the gut, helping rats lose weight without side effects. Unlike current drugs, the beads are safe, tasteless, and easy to mix into everyday foods. Human trials are now underway.",
+    "date": "2025-08-23 23:57:45",
+    "image": null
+  },
+  {
+    "source": "ScienceDaily Health",
+    "title": "Too much salt can hijack your brain",
+    "link": "https://www.sciencedaily.com/releases/2025/08/250822073818.htm",
+    "summary": "Too much salt may inflame the brain, triggering hormones that push blood pressure higher. Scientists found this pathway could explain why many patients resist current hypertension drugs, pointing toward the brain as a new treatment target.",
+    "date": "2025-08-23 22:22:31",
+    "image": null
+  },
+  {
+    "source": "ScienceDaily Health",
+    "title": "Tiny protein dismantles the toxic clumps behind Alzheimer\u2019s",
+    "link": "https://www.sciencedaily.com/releases/2025/08/250822073817.htm",
+    "summary": "St. Jude researchers revealed that midkine blocks amyloid beta from forming harmful clumps linked to Alzheimer\u2019s. Without it, the damaging assemblies accelerate, but with it, growth halts. The finding could inspire new drugs that harness midkine\u2019s protective power.",
+    "date": "2025-08-23 08:51:32",
+    "image": null
+  },
+  {
+    "source": "ScienceDaily Health",
+    "title": "A startling omega-3 deficiency may explain women\u2019s Alzheimer\u2019s risk",
+    "link": "https://www.sciencedaily.com/releases/2025/08/250821094533.htm",
+    "summary": "Researchers discovered that women with Alzheimer\u2019s show a sharp loss of omega fatty acids, unlike men, pointing to sex-specific differences in the disease. The study suggests omega-rich diets could be key, but clinical trials are needed.",
+    "date": "2025-08-22 07:49:07",
+    "image": null
+  },
+  {
+    "source": "ScienceDaily Health",
+    "title": "Mysterious \u201clittle red dots\u201d could reveal how the first black holes formed",
+    "link": "https://www.sciencedaily.com/releases/2025/08/250819072201.htm",
+    "summary": "Astronomers may have uncovered the origins of the mysterious \u201clittle red dots,\u201d some of the strangest galaxies seen in the early universe. These tiny but brilliant objects, discovered by the James Webb Space Telescope, appear far too compact and bright to fit existing models of\u2026",
+    "date": "2025-08-22 06:05:41",
+    "image": null
+  },
+  {
+    "source": "ScienceDaily Health",
+    "title": "Hidden venom divide in Australia\u2019s deadliest snake raises urgent treatment questions",
+    "link": "https://www.sciencedaily.com/releases/2025/08/250821094520.htm",
+    "summary": "Scientists have uncovered a startling split in the venom of Australia\u2019s Eastern Brown Snake. In the south, bites cause rock-solid blood clots, while in the north, they trigger flimsy clots that collapse almost instantly. This hidden divide means current antivenoms, made from\u2026",
+    "date": "2025-08-22 00:47:38",
+    "image": null
+  },
+  {
+    "source": "ScienceDaily Health",
+    "title": "Why some people age faster. And the 400 genes behind it",
+    "link": "https://www.sciencedaily.com/releases/2025/08/250821094516.htm",
+    "summary": "Researchers identified over 400 genes tied to various forms of frailty, offering fresh insight into why people age differently. The study highlights six distinct pathways of unhealthy aging, opening the door to more precise, targeted anti-aging interventions.",
+    "date": "2025-08-22 00:18:26",
+    "image": null
+  },
+  {
+    "source": "ScienceDaily Health",
+    "title": "A safe painkiller? New research raises concerns about Tylenol\u2019s safety in pregnancy",
+    "link": "https://www.sciencedaily.com/releases/2025/08/250821004246.htm",
+    "summary": "A large-scale review finds that acetaminophen use during pregnancy may increase the risk of autism and ADHD in children. The strongest studies showed the clearest links, pointing to biological pathways like oxidative stress and hormone disruption. Experts call for caution,\u2026",
+    "date": "2025-08-21 08:27:53",
+    "image": null
+  },
+  {
+    "source": "ScienceDaily Health",
+    "title": "Scientists solve 30-year mystery of a hidden nutrient that shields the brain and fights cancer",
+    "link": "https://www.sciencedaily.com/releases/2025/08/250821004244.htm",
+    "summary": "Scientists have finally uncovered the missing link in how our bodies absorb queuosine, a rare micronutrient crucial for brain health, memory, stress response, and cancer defense. For decades, researchers suspected a transporter had to exist, but it remained elusive\u2014until now.",
+    "date": "2025-08-21 07:13:02",
+    "image": null
+  },
+  {
+    "source": "ScienceDaily Health",
+    "title": "Stunning galaxy blooms with pink nebulae in Hubble\u2019s new image",
+    "link": "https://www.sciencedaily.com/releases/2025/08/250818102132.htm",
+    "summary": "Hubble\u2019s newest view of the spiral galaxy NGC 2835 adds a stunning twist to a familiar sight. By capturing light in a special wavelength called H-alpha, astronomers have revealed glowing pink nebulae that mark where stars are born and where they fade away.",
+    "date": "2025-08-20 21:32:17",
+    "image": null
+  },
+  {
+    "source": "ScienceDaily Health",
+    "title": "Scientists just found a protein that reverses brain aging",
+    "link": "https://www.sciencedaily.com/releases/2025/08/250820000808.htm",
+    "summary": "Scientists at UCSF have uncovered a surprising culprit behind brain aging: a protein called FTL1. In mice, too much FTL1 caused memory loss, weaker brain connections, and sluggish cells. But when researchers blocked it, the animals regained youthful brain function and sharp\u2026",
+    "date": "2025-08-20 09:57:58",
+    "image": null
+  },
+  {
+    "source": "ScienceDaily Health",
+    "title": "Why listening may be the most powerful medicine",
+    "link": "https://www.sciencedaily.com/releases/2025/08/250820000803.htm",
+    "summary": "In a health system where speed often replaces empathy, researchers highlight the life-changing power of listening. Beyond simple questions, values-driven listening\u2014marked by presence, curiosity, and compassion\u2014can transform both patients and providers.",
+    "date": "2025-08-20 09:20:52",
+    "image": null
+  },
+  {
+    "source": "ScienceDaily Health",
+    "title": "How low should blood pressure go? New study has the answer",
+    "link": "https://www.sciencedaily.com/releases/2025/08/250820000800.htm",
+    "summary": "An aggressive blood pressure target of under 120 mm Hg can significantly reduce heart disease risk, researchers found. Despite more side effects and higher costs, the approach proved cost-effective and beneficial for many patients.",
+    "date": "2025-08-20 08:19:11",
+    "image": null
+  },
+  {
+    "source": "ScienceDaily Health",
+    "title": "Genetic evidence confirms early puberty accelerates aging and disease",
+    "link": "https://www.sciencedaily.com/releases/2025/08/250820000754.htm",
+    "summary": "Researchers discovered that early puberty or childbirth doubles women\u2019s risk for major diseases and accelerates aging, while later timing offers protective benefits. Genetic analysis reveals evolutionary tradeoffs, where reproductive advantages early in life create health\u2026",
+    "date": "2025-08-20 03:43:51",
+    "image": null
+  },
+  {
+    "source": "ScienceDaily Health",
+    "title": "Scientists uncover sugar pathway driving aggressive childhood cancer",
+    "link": "https://www.sciencedaily.com/releases/2025/08/250820000752.htm",
+    "summary": "Scientists have uncovered a hidden weakness in one of the deadliest childhood cancers. The tumors, which spread quickly and are notoriously hard to treat, rely on a sugar-processing pathway to survive and grow. By blocking this pathway, researchers were able to slow down the\u2026",
+    "date": "2025-08-19 22:37:52",
+    "image": null
+  },
+  {
+    "source": "ScienceDaily Health",
+    "title": "Tiny microbes may secretly rewire the brain before birth",
+    "link": "https://www.sciencedaily.com/releases/2025/08/250818103000.htm",
+    "summary": "MSU researchers discovered that microbes begin shaping the brain while still in the womb, influencing neurons in a region critical for stress and social behavior. Their findings suggest modern birth practices that alter the microbiome may have hidden impacts on brain development.",
+    "date": "2025-08-19 08:24:37",
+    "image": null
+  },
+  {
+    "source": "ScienceDaily Health",
+    "title": "A new cancer vaccine just wiped out tumors in mice",
+    "link": "https://www.sciencedaily.com/releases/2025/08/250818102951.htm",
+    "summary": "A breakthrough mRNA cancer vaccine has shown the ability to supercharge the effects of immunotherapy in mice, sparking hope for a universal \u201coff-the-shelf\u201d treatment that could fight multiple cancers. Unlike traditional vaccines designed to target specific tumor proteins, this\u2026",
+    "date": "2025-08-19 00:52:25",
+    "image": null
+  },
+  {
+    "source": "ScienceDaily Health",
+    "title": "This overlooked trait could explain anxiety and depression in millions",
+    "link": "https://www.sciencedaily.com/releases/2025/08/250818102949.htm",
+    "summary": "Researchers analyzing 33 studies found strong evidence that highly sensitive people are more prone to depression and anxiety but also more likely to benefit from therapy. Since about 31% of the population is highly sensitive, experts argue that clinicians should consider\u2026",
+    "date": "2025-08-18 22:47:07",
+    "image": null
+  },
+  {
+    "source": "ScienceDaily Health",
+    "title": "Even mild Covid may leave blood vessels five years older",
+    "link": "https://www.sciencedaily.com/releases/2025/08/250818102946.htm",
+    "summary": "Researchers discovered that Covid accelerates blood vessel aging by about five years, especially in women. Even mild infections increased arterial stiffness, with vaccinated individuals showing less damage. This vascular aging may raise long-term heart and stroke risk.",
+    "date": "2025-08-18 22:20:33",
+    "image": null
+  },
+  {
+    "source": "ScienceDaily Health",
+    "title": "Is ketamine the answer for chronic pain? New findings cast doubt",
+    "link": "https://www.sciencedaily.com/releases/2025/08/250818102944.htm",
+    "summary": "A sweeping review of 67 trials has cast doubt on the use of ketamine and similar NMDA receptor antagonists for chronic pain relief. While ketamine is frequently prescribed off-label for conditions like fibromyalgia and nerve pain, researchers found little convincing evidence of\u2026",
+    "date": "2025-08-18 22:02:20",
+    "image": null
+  },
+  {
+    "source": "ScienceDaily Health",
+    "title": "Forget LASIK: Safer, cheaper vision correction could be coming soon",
+    "link": "https://www.sciencedaily.com/releases/2025/08/250818102941.htm",
+    "summary": "Scientists are developing a surgery-free alternative to LASIK that reshapes the cornea using electricity instead of lasers. In rabbit tests, the method corrected vision in minutes without incisions.",
+    "date": "2025-08-18 09:52:42",
+    "image": null
+  },
+  {
+    "source": "ScienceDaily Health",
+    "title": "Columbia scientists may have found a universal antiviral",
+    "link": "https://www.sciencedaily.com/releases/2025/08/250818102957.htm",
+    "summary": "A rare immune disorder has inspired a potential universal antiviral therapy. By mimicking the mutation s unique inflammation signature, researchers developed an mRNA-based treatment that stopped influenza and COVID-19 in animal trials.",
+    "date": "2025-08-18 08:59:57",
+    "image": null
+  },
+  {
+    "source": "Google News",
+    "title": "Could Lithium Explain \u2014 and Treat \u2014 Alzheimer\u2019s Disease? - Harvard Medical School",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbUdpNTJ0UjZhUW84UmRMNFNCdGJUVDF6Qk1rc2pTQXQzb2tSVGJseGZiOEN5cVR1UzJKaE5SblUtVXcwSkhjWHU2VDVVbU5VTGtJSUFqeF81YUM5amZEREU2dWhyMDM3TUdHby1scnVvMngwT200UzlEUzhYLWxabw?oc=5",
+    "summary": "Could Lithium Explain \u2014 and Treat \u2014 Alzheimer\u2019s Disease? &nbsp;&nbsp; Harvard Medical School",
+    "date": "2025-08-06 01:30:00",
+    "image": "https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_68x28dp.png"
+  },
+  {
+    "source": "Google News",
+    "title": "Empagliflozin is a cost-effective treatment for people with chronic kidney disease - ndph.ox.ac.uk",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQay1XY0x2bGZpWDNUV2hOSmZtRkxYSE5KTGtVaWdrbDlfcU4tZklIaHo1UXJ6QjlXMDE4T09YbVlnVFNjV0ZncVVSeXBXRmlabVJNTUdXbHRPOTlHSWpES0ZZX1NVemZMeFhqOVhrSzhRYTktY3lTM1FQYWlEaHBjSUs4d1ZlendiZWIwQVNGa3Z4S2I2YzgycDJ4M1ZYOVJzNmRVaFdDRUtULUtKMm9Qd29GNA?oc=5",
+    "summary": "Empagliflozin is a cost-effective treatment for people with chronic kidney disease &nbsp;&nbsp; ndph.ox.ac.uk",
+    "date": "2025-07-08 01:30:00",
+    "image": "https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_68x28dp.png"
+  },
+  {
+    "source": "Google News",
+    "title": "Danish trial reveals how structured exercise and guidance affect life with chronic conditions - News-Medical",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSGd4ZjhzMmQ3N1FyMVZtZF9lNENDR0tXeExkdGRqa3ZWVzNxZ2p0NmlRamptNnJyUW40UHczLUpJYmxfNU10WGpfZEx0NDhRNVp2MnpWZFFzM3FRRWhmUE5tYjRzcUtRR0FTY0pIUFFuekh0ZF9GRlVHczBLWTFJZ1hKUHgxdVkyTDBPcmMtV05YX05EZ1REeFFia0hSVEFaZ3duNXA1ajNXRUc4ejVfdmhBeHlHbldKTWZUSkhhVm5qV2l6NlBtNE1wOE5DbnFJYnRGMFIzRUQ?oc=5",
+    "summary": "Danish trial reveals how structured exercise and guidance affect life with chronic conditions &nbsp;&nbsp; News-Medical",
+    "date": "2025-07-01 01:30:00",
+    "image": "https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_68x28dp.png"
+  },
+  {
+    "source": "Google News",
+    "title": "Exercise therapy and self-management support for individuals with multimorbidity: a randomized and controlled trial - Nature",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBCREZleXZFaC1mUWIyRGpmSDZIUUxaMHVNZG92N0t1WmxfZ0lVeTVGcHhuNktBU1pwbjR2cWdzaXlyUjVUN3ZPRXZtSDljdkVjUG8wbERuMnIyZlZxXzlR?oc=5",
+    "summary": "Exercise therapy and self-management support for individuals with multimorbidity: a randomized and controlled trial &nbsp;&nbsp; Nature",
+    "date": "2025-06-30 01:30:00",
+    "image": "https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_68x28dp.png"
+  },
+  {
+    "source": "Google News",
+    "title": "Study: Crohn\u2019s Disease Investigational Treatment Shows Potential for Achieving Remission - Cedars-Sinai",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSVdxMlFzUmM1bzlFbTVjbzhKWloxb2F6NVdEN29vNUpaaFRMbjh0a3F4V2Y5UlRja1hjVmVTQXBEZEhvVl9naW0xREpyMUtDQzQ0SUF5YVlsVmFYVjdmcXhUZm5IRVdVMWkzRVJXM2wxSXJhblJtLVl6ejZOSjVQUno4RDltcHdYeDloMEpLbldDZDgyRkNjWGFyem1HVnh6ZlZiWk9mV1gtT3FlT0loRFI3NndReVdfdXVVQ3ItZ3Y5QlU?oc=5",
+    "summary": "Study: Crohn\u2019s Disease Investigational Treatment Shows Potential for Achieving Remission &nbsp;&nbsp; Cedars-Sinai",
+    "date": "2025-06-26 01:30:00",
+    "image": "https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_68x28dp.png"
+  },
+  {
+    "source": "Google News",
+    "title": "Chronic Lyme Illness Needs Symptom-Targeted Treatments - Medscape",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRnhTdFpwUXRrbmVNVUdKcU44b1pwRWlmV1pZSEhFLUtQTE5iRXRkUGdsallObVJhT0F0VEh6MU5GWGNfMm96SjZ1NE5nOUo1TVlEeXFOZzFwR1dKM0pnUmJPU1F3bG9IY1l6VHRmM0RpY1NFb1NMTjNraF9iem1KTU5fVUFleFNpYjZOYWpsNW5YM0ppZmxXeDZNTDctTkNaT21BeE13?oc=5",
+    "summary": "Chronic Lyme Illness Needs Symptom-Targeted Treatments &nbsp;&nbsp; Medscape",
+    "date": "2025-06-10 01:30:00",
+    "image": "https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_68x28dp.png"
+  },
+  {
+    "source": "Google News",
+    "title": "Finerenone with Empagliflozin in Chronic Kidney Disease and Type 2 Diabetes - NEJM",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE05bnNWV3dXN2RhcVhfUzhFSkpOZVEwTUp3WVRkVTVYU29jRmpRa1ZSd2pOWS1TbzJmQVpHUWdOOTB0NmYzVWtrNkpJZU1pbHprSXdjdmtESWw3X1AtWW92Zw?oc=5",
+    "summary": "Finerenone with Empagliflozin in Chronic Kidney Disease and Type 2 Diabetes &nbsp;&nbsp; NEJM",
+    "date": "2025-06-05 01:30:00",
+    "image": "https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_68x28dp.png"
+  },
+  {
+    "source": "Google News",
+    "title": "Vitamin D supplements may slow biological aging - Harvard Gazette",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPXzBQaWlMdUdsT3BON29ReGxyY3MzRkQwSEdKMDV6VzBiYjBTYkRzdWY5UWZMNTVJNGRwOXNEU2xTRllESzRvQjlrSjVZNVF2UG1LRDl3am5mMmtNTFZwczg0UllXUHMxQm5KeXhFMG04Y2RXUTlmbjRRdmRnTVByYnAwcVcyV3pFLXNGUkIxalA5OFlTcHRMdk9Fcw?oc=5",
+    "summary": "Vitamin D supplements may slow biological aging &nbsp;&nbsp; Harvard Gazette",
+    "date": "2025-05-22 01:30:00",
+    "image": "https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_68x28dp.png"
+  },
+  {
+    "source": "Google News",
+    "title": "Chronic lymphocytic leukemia - Mayo Clinic",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOTRidGdtbUxweUZjRUdRYmJ6akRrWDFPN0FkdlQ5a0x5elEwZWN0cU1ISHNhaEp5N25EaU5rUk5DaTVOa2dvenp0c3hJM1Q4bnZLUGpOUzJlYjdac1FHRi1JMnVCX0ZvQmdsNXFCU3p1NHhGeWhLUjRMYnowblkzd1daNUxNTEhodVlDeDlqVk1BU2d2YThVMm03cFM4Qzk2ZmlhSzNPTGJJeTRY?oc=5",
+    "summary": "Chronic lymphocytic leukemia &nbsp;&nbsp; Mayo Clinic",
+    "date": "2025-04-30 01:30:00",
+    "image": "https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_68x28dp.png"
+  },
+  {
+    "source": "Google News",
+    "title": "Taking the bite out of Lyme disease - Northwestern Now News",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTEFKSVloNGtXNXc5OXJQdlY0ckdIZFQ3VXktM0VydzhVdEVPcXdDNU42SzRDc2xZWG1iSkJiWkUzelJIQjlBdjNVejdYTDhDMHc1VlMyalhKclhacnlSQWdoSHFjTjg5cUoyVXVTRFc3QnI1X19vQW9OOUlYcnlFSFc5eWg0NjNCeEE?oc=5",
+    "summary": "Taking the bite out of Lyme disease &nbsp;&nbsp; Northwestern Now News",
+    "date": "2025-04-25 01:30:00",
+    "image": "https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_68x28dp.png"
+  },
+  {
+    "source": "Google News",
+    "title": "Breakthrough DNA delivery system could revolutionize chronic disease treatment - News-Medical",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYS01VWV0ZmI0Uzd5b2RvZS1DV2tXVHJnTHByLXVTeTZMdzZ0SmxTcHl5R1dTRldEMVE4OHRLMGI0Y0Vwcl9scm5rVEtqVU1UNnVYRm9Rb1ZWTVRYb3RRYjZWOW91SU92NERMbVJmTHRoLThpbFdPMENXcHFQT0NqNER5S014azV1a2haV1hQTnhDRmJZamxJSUVsbGpEclNTVlJ5Y0ZRZnNIbnFyRDNkSHlKQ0JFbVY2V2lmUUZ4bjlFYzg1?oc=5",
+    "summary": "Breakthrough DNA delivery system could revolutionize chronic disease treatment &nbsp;&nbsp; News-Medical",
+    "date": "2025-03-25 01:30:00",
+    "image": "https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_68x28dp.png"
+  },
+  {
+    "source": "Google News",
+    "title": "Protocol paper: randomized controlled trial of the smart online-to-offline model development for chronic diseases management through digital health in real world setting | Trials | Full Text - BioMed Central",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVGFxQ2lMQ3h3U2dkZWJFV1pPeVJULTlnU25TaVY0QkxuU1JHMWU5OFhBQjNsOFF0Zi1taGZrZmRPeVhucXVUeEVmX05VNE15djItUkNybm1ORXpQTDJmdEFqa1hJd2tNZHMxLUJrZTVOLWZkQnJXaEFGTVQzOVRhdA?oc=5",
+    "summary": "Protocol paper: randomized controlled trial of the smart online-to-offline model development for chronic diseases management through digital health in real world setting | Trials | Full Text &nbsp;&nbsp; BioMed Central",
+    "date": "2025-02-05 02:30:00",
+    "image": "https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_68x28dp.png"
+  },
+  {
+    "source": "Google News",
+    "title": "Oral lactoferrin as a treatment of pediatrics\u2019 anemia resulted from chronic kidney diseases: a randomized controlled trial - Nature",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBra3lCTi12dlhSWEQ2OUpIQ09na3FNeXhfZjBmbFhwbU9NUWl6b0Y1cDBSY196LXp5a0FBUmpxbFpRcnV2NFFOSkI3UUdZZWhuWWZOVjNucmcxRDNCaVVr?oc=5",
+    "summary": "Oral lactoferrin as a treatment of pediatrics\u2019 anemia resulted from chronic kidney diseases: a randomized controlled trial &nbsp;&nbsp; Nature",
+    "date": "2025-02-05 02:30:00",
+    "image": "https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_68x28dp.png"
+  },
+  {
+    "source": "Google News",
+    "title": "Fixed-Duration Acalabrutinib Combinations in Untreated Chronic Lymphocytic Leukemia - NEJM",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1heGJGUEpnZG1Ca2UyeEZqbEZwbXJNbzBLMjd3cEJZN1JEVlU3NTdHQktJb0ZDdjc1RlZlTk9Icm42VHlhRmJwdVRpVVRNNHB3ams2UFhPa1dIUkJBUlkyQQ?oc=5",
+    "summary": "Fixed-Duration Acalabrutinib Combinations in Untreated Chronic Lymphocytic Leukemia &nbsp;&nbsp; NEJM",
+    "date": "2025-02-05 02:30:00",
+    "image": "https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_68x28dp.png"
+  },
+  {
+    "source": "Google News",
+    "title": "Individual and additive effects of vitamin D, omega-3 and exercise on DNA methylation clocks of biological aging in older adults from the DO-HEALTH trial - Nature",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8yN3dGZHlTclZKUjl5cEliRTJjQ3NCNk1ydUQ2WjFoMWZCQ0J4WGVNR2RSY1dqeFJOM2hheVV5RUxYR3ROb2JIMEFpYmpJQmV4MVZkM3ZjalphanJINjNn?oc=5",
+    "summary": "Individual and additive effects of vitamin D, omega-3 and exercise on DNA methylation clocks of biological aging in older adults from the DO-HEALTH trial &nbsp;&nbsp; Nature",
+    "date": "2025-02-03 02:30:00",
+    "image": "https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_68x28dp.png"
+  },
+  {
+    "source": "Google News",
+    "title": "New study identifies how blood vessel dysfunction can worsen chronic disease - OHSU News",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYndCYW9ZM3VMMng3Zlk2RU5Ca0lZbUFsLUtZRF90TG5vcEtaT2l5aVVPNU8yVVlwcU1CMldFR3h4QTdBUXo0d2RkQm44a3ZWWkxZVXRLRlBQN3VFUW9sVUFqVDZsTm1LcGR1TFc0ejVCcmtUbE84Sm82VEM4bXVRbjNDYldUZm9PSE9pVi1BY3JhS052NmFpd05KVk5GQVNYWG5hb1I5c3dHOTFpU1E?oc=5",
+    "summary": "New study identifies how blood vessel dysfunction can worsen chronic disease &nbsp;&nbsp; OHSU News",
+    "date": "2025-01-10 02:30:00",
+    "image": "https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_68x28dp.png"
+  },
+  {
+    "source": "Google News",
+    "title": "Could weight-loss drugs treat other chronic diseases? - Financial Times",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1vT1RmMWEzWjVGMWVNNy1fSW00dTZ5ek5LOGRnZVlaTW55U2l3MGpTLU5DVHdJOExDX2FuMFl4aU1Uek1hMVpaTWdZdHkxY3RQcXJ3X2taZnVFT2RWVkZwX2c4RzN0WUtQLTNKMEdhUV8?oc=5",
+    "summary": "Could weight-loss drugs treat other chronic diseases? &nbsp;&nbsp; Financial Times",
+    "date": "2024-12-11 02:30:00",
+    "image": "https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_68x28dp.png"
+  },
+  {
+    "source": "Google News",
+    "title": "New research explores potential treatments for chronic diseases and cancer - Wayne State University",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSXRuTVZPZ2lGMGEwR0VSY1pXNTF2WEtrZkxwcUxPbzlMNzktMzRwc3cwSzJ5cnhCZVFvUWswMTVZcGt4eFlBZlZXYlZ2cU9UYnZMMXF0SlhuNWhyWkJRU1VwZS14cjhxbFhySmJnY1daSFJnMDN5R09ROXdhYl9mSWVwRUp0c19RRTNCcGNfYUFreWVfb3FYMVZXSkx0aVJWcy1Fdm9qTEVHWkstWnNaMHVn?oc=5",
+    "summary": "New research explores potential treatments for chronic diseases and cancer &nbsp;&nbsp; Wayne State University",
+    "date": "2024-12-04 02:30:00",
+    "image": "https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_68x28dp.png"
+  },
+  {
+    "source": "Google News",
+    "title": "Optimising the treatment of chronic ischemic heart disease by training general practitioners to deliver very brief advice on physical activity (OptiCor): protocol of the systematic development and evaluation of a complex intervention - BMC Primary Care",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5rZ001UE5ta1B3V2lCdmFCa1lGa0NtaWhkaXpSNjRNWHN3bkRnRWNfLXZjTGVIaGNPMVVjbjFHRU1TeUdJandiVWlPUG8zdDBXazBaSm5oWHJpRWdpVUhBNGhnc1F4T1AtTjJkY1Y2ck81TmxnbDJHUTQ5cV8yZw?oc=5",
+    "summary": "Optimising the treatment of chronic ischemic heart disease by training general practitioners to deliver very brief advice on physical activity (OptiCor): protocol of the systematic development and evaluation of a complex intervention &nbsp;&nbsp; BMC Primary Care",
+    "date": "2024-11-27 02:30:00",
+    "image": "https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_68x28dp.png"
+  },
+  {
+    "source": "Google News",
+    "title": "Metformin: decelerates biomarkers of aging clocks - Nature",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5SN291NGFUYnR6UHpHYWsyT0t0V3pZRlh1emxXSGNySUZLTGJtUXlMRzRhMUUxVWNzNEtHVXhJTlRscmNKRThkYlF5R1JJVmVtT3FSZEF3UzhmOTBVeW5v?oc=5",
+    "summary": "Metformin: decelerates biomarkers of aging clocks &nbsp;&nbsp; Nature",
+    "date": "2024-11-13 02:30:00",
+    "image": "https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_68x28dp.png"
+  },
+  {
+    "source": "Google News",
+    "title": "EASi-KIDNEY\u2122 Phase III trial for people with CKD - Boehringer Ingelheim",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWXBLOTZLOHJhNmdySXdkLTZYTHg0aHZPbFAxcnZXTE1DWWVXSTJJSm96R3JCZHlycjVqYVROb1VPMWsya1pzWENWTGZrNG83NUNiMldLRjBSUzRpa3VLZzhYbVhZaGJNTWRtTTlpSlZwRmxWOXRELXFpQVIta2xiVmsyQzc0YVdBTW13TEY2RHZnajhYWndNOXpOUE5rOHkwdnpNYllNdVV3djhkZkc0aQ?oc=5",
+    "summary": "EASi-KIDNEY\u2122 Phase III trial for people with CKD &nbsp;&nbsp; Boehringer Ingelheim",
+    "date": "2024-11-06 03:28:28",
+    "image": "https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_68x28dp.png"
+  },
+  {
+    "source": "Google News",
+    "title": "Semaglutide in patients with overweight or obesity and chronic kidney disease without diabetes: a randomized double-blind placebo-controlled clinical trial - Nature",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9PQk1lTkxJLXNDMGlzd0lZc3JYOGVzeUxzTjdSRkRrUXp5ZnRwWWZTdS1aZDYxLXRsNnVWRnJlRmlFU2JZVUp3SFM0X2k1TnVESkhKRGdHdnhPTlFfR1dr?oc=5",
+    "summary": "Semaglutide in patients with overweight or obesity and chronic kidney disease without diabetes: a randomized double-blind placebo-controlled clinical trial &nbsp;&nbsp; Nature",
+    "date": "2024-10-25 01:30:00",
+    "image": "https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_68x28dp.png"
+  },
+  {
+    "source": "Google News",
+    "title": "Low-dose spironolactone and cardiovascular outcomes in moderate stage chronic kidney disease: a randomized controlled trial - Nature",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1bndFM01NQkczaVNPeWZDWnh6MC01LTl6LUd1c2NVU1gzU1pRWVhzOG1uZDlTcmRKcVA5X0xVR1lLQUl0Y3RtUWpkbmt4VFhVbXl4S3RHV3VFM3ZnTjgw?oc=5",
+    "summary": "Low-dose spironolactone and cardiovascular outcomes in moderate stage chronic kidney disease: a randomized controlled trial &nbsp;&nbsp; Nature",
+    "date": "2024-09-30 01:30:00",
+    "image": "https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_68x28dp.png"
+  },
+  {
+    "source": "Google News",
+    "title": "Mobile phone interventions to improve health outcomes among patients with chronic diseases: an umbrella review and evidence synthesis from 34 meta-analyses - The Lancet",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZTB5bWhBeUpzeVJ2WTlJaU0wclVVSXZaNlN2SlB4elhKdXl6T3dlWTluVmw3a0VrU2tiUVRHOXAxYkFJUWZUZFB6YkxZelJjelBISzJBQ0N1SzFpS3NHSThYUmJFZnA1QUJKLTNJSVR1eTZzZjdvUXQ2c0k1bVE1YWQxalBnVFNTbGg4?oc=5",
+    "summary": "Mobile phone interventions to improve health outcomes among patients with chronic diseases: an umbrella review and evidence synthesis from 34 meta-analyses &nbsp;&nbsp; The Lancet",
+    "date": "2024-09-26 01:30:00",
+    "image": "https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_68x28dp.png"
+  },
+  {
+    "source": "Google News",
+    "title": "Determinants of medication non-adherence among patients with chronic diseases at community pharmacy settings in South Gondar Zone, Northwest Ethiopia: a multicenter cross-sectional study - Frontiers",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZ2J3WFYxbjdhRkx4UlJvNWZCNEFsQVVhN3l2X1NTdUZscGlyaWFIX2ZfM2tvbElIZ2pVZnRVOGpOTTB5a0g0Y1R0cVNBVzgtci10SlhkNmt2cEFpT2xVYVF1dXo2Y085M3FkNHVGMV82VVZZWnpQRVVMTl9EdzBvZzB4cFJHT0tpSkZsVlFpc0lCYl8zQkE?oc=5",
+    "summary": "Determinants of medication non-adherence among patients with chronic diseases at community pharmacy settings in South Gondar Zone, Northwest Ethiopia: a multicenter cross-sectional study &nbsp;&nbsp; Frontiers",
+    "date": "2024-09-25 12:45:50",
+    "image": "https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_68x28dp.png"
+  },
+  {
+    "source": "Google News",
+    "title": "New trial to test potential treatment for chronic kidney disease - University of Oxford",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPamtXMWJjWU95OVdDX1dxOEtHWHZFY1NXSHZqbUplZFhqaWVuYmIxV0tPb1VyNWtLbnNUc3dXdGNUeDF4Z3hOX28tZ3ItWDM5VVB6Ql9EZEZPTlRUWnA4ejVXMF9QekEtSzBWRWtRWndvZWtXY1I1RHB2bjRmUnhhSFVUazgzb3Nxak82eTZ5N2tyR001RmJRWUFR?oc=5",
+    "summary": "New trial to test potential treatment for chronic kidney disease &nbsp;&nbsp; University of Oxford",
+    "date": "2024-09-18 01:30:00",
+    "image": "https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_68x28dp.png"
+  },
+  {
+    "source": "Google News",
+    "title": "Axatilimab in Recurrent or Refractory Chronic Graft-versus-Host Disease - NEJM",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1SQnM4WTVScXgtSWFNdHZ3cGxhLXdnMFpSSEczdXFpX3hqVlhKTEduRTdlMnFuZl9jbktFNFdJZG1oRW13aENBVVFJZ21sSjFHTy02Q1UtU3R0UW9rZldR?oc=5",
+    "summary": "Axatilimab in Recurrent or Refractory Chronic Graft-versus-Host Disease &nbsp;&nbsp; NEJM",
+    "date": "2024-09-18 01:30:00",
+    "image": "https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_68x28dp.png"
+  },
+  {
+    "source": "Google News",
+    "title": "The impact of aerobic exercise dose based on ACSM recommendations on patients with Parkinson\u2019s disease: a systematic review and meta-analysis of randomized controlled trials - Frontiers",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWkR0bThLX2I5bWtYVWF5YTBDRTlKUkY1d3JsZWhjU2l0X3VETnV4MXgwd0oyNlZHazRwa0YzcDB6bFN6eGhDS1F2a3MwRTJNbjE3TTg1ZWltTnF0UkRacDI5U2hiRVB1LWFTNXdlQUhSTk1fZUZiLVFRcmIyYlV4Xy1SanFVODczNkh1OFhjbzNHbUo5NHZDUldqd1A?oc=5",
+    "summary": "The impact of aerobic exercise dose based on ACSM recommendations on patients with Parkinson\u2019s disease: a systematic review and meta-analysis of randomized controlled trials &nbsp;&nbsp; Frontiers",
+    "date": "2024-09-17 11:47:19",
+    "image": "https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_68x28dp.png"
+  },
+  {
+    "source": "Google News",
+    "title": "Digital Intervention for behaviouR changE and Chronic disease prevenTION (DIRECTION): Study protocol for a randomized controlled trial of a web-based platform integrating nutrition, physical activity, and mindfulness for individuals with obesity - ScienceDirect.com",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5vWW5zUGkxeXNZSmtYam1oelUtVkZtNmlSSzZoU3V2RWI1a1VBSGxLcVBUVU1ieE1BOC0zaEI4UXFZWHVpTjdPTG55cDJaTXNaWnlJVVJPbk9UQU5QVllaejNCSmdYSGdXTE5tU3pjMTZrcVYtTEE?oc=5",
+    "summary": "Digital Intervention for behaviouR changE and Chronic disease prevenTION (DIRECTION): Study protocol for a randomized controlled trial of a web-based platform integrating nutrition, physical activity, and mindfulness for individuals with obesity &nbsp;&nbsp; ScienceDirect.com",
+    "date": "2024-09-13 05:17:31",
+    "image": "https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_68x28dp.png"
+  },
+  {
+    "source": "Google News",
+    "title": "A multicomponent personalized prevention program in the primary care setting: a randomized clinical trial in older people with noncommunicable chronic diseases (Primacare_P3 study) - BioMed Central",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQUJHWHFwWGVGb09oMFhQX1JSNnNScDRhUXBPcXc4U3pDRXctekpxbU5NS3NwMWxuY0ZVdXhYc1Ntdnp1R0dSLWJ4ODdhWlgxZlBDRVIxaVNoU0lYZzl3UllGMWllNG41Z2RtbkNfcFZVRWxTQl81RjJnOUN6eHZYRA?oc=5",
+    "summary": "A multicomponent personalized prevention program in the primary care setting: a randomized clinical trial in older people with noncommunicable chronic diseases (Primacare_P3 study) &nbsp;&nbsp; BioMed Central",
+    "date": "2024-09-13 01:30:00",
+    "image": "https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_68x28dp.png"
+  },
+  {
+    "source": "Google News",
+    "title": "Factors associated with self-management in older adults with multiple chronic conditions: a qualitative study - Frontiers",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRmhDeWNUZTV0bVZXUEhFVGVVTVJ5V0w5emQ4ay1VSFNYVDZMbUhpcWwzRVdYYnJZejAtem8wSklkQWJjN1FfSExaUE4tdkFkeE9aTDkwUVAxS3A2ZlFQeDFCZlhyemVRVGJPN1U1U2ZNVTZvb2JRQlh0Q1dJUFdJOFVzaWRGRU1WSE5ldXNva2V1bTgzbkE?oc=5",
+    "summary": "Factors associated with self-management in older adults with multiple chronic conditions: a qualitative study &nbsp;&nbsp; Frontiers",
+    "date": "2024-09-05 07:42:57",
+    "image": "https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_68x28dp.png"
+  },
+  {
+    "source": "Google News",
+    "title": "Finerenone in heart failure and chronic kidney disease with type 2 diabetes: FINE-HEART pooled analysis of cardiovascular, kidney and mortality outcomes - Nature",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBrOTk5RlVjbFVFSkxNckhYQ1VwQURKZm1fZ2tCdnYwdGJablFsNFpqcFZ5ZjFVcWhvT19LYXJreGVDbU1qakhydkpuRDNtMUw4anNldUpVUm96TzhyYUE4?oc=5",
+    "summary": "Finerenone in heart failure and chronic kidney disease with type 2 diabetes: FINE-HEART pooled analysis of cardiovascular, kidney and mortality outcomes &nbsp;&nbsp; Nature",
+    "date": "2024-09-01 01:30:00",
+    "image": "https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_68x28dp.png"
+  },
+  {
+    "source": "Google News",
+    "title": "Prioritized Research for the Prevention, Treatment, and Reversal of Chronic Disease: Recommendations From the Lifestyle Medicine Research Summit - Frontiers",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONGEzNEFpRUVnOEZGemplRUh1OGZoYTdlTk1adUZLSTlOZFgtT2x4cEc0T1RZV3A3clJWdTFtODRTcmJwbkZHNlZGTngwUURmM0tOM3ZvckJ2UVN3d283STF0eEJQQ0RxdmVmYkh4bm1mWjdGMUlRMW5HY2UxeThwQkpXWklaSWt5SFJ6VA?oc=5",
+    "summary": "Prioritized Research for the Prevention, Treatment, and Reversal of Chronic Disease: Recommendations From the Lifestyle Medicine Research Summit &nbsp;&nbsp; Frontiers",
+    "date": "2024-06-24 15:35:19",
+    "image": "https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_68x28dp.png"
+  },
+  {
+    "source": "Google News",
+    "title": "Effects of Semaglutide on Chronic Kidney Disease in Patients with Type 2 Diabetes - NEJM",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ocGsxN1dZZUp4OXBGZV9hLXA3LUhDSXNOWVJNamdfREFuelE5akJqUkJPSHNtT0ZLclRoUkZrcFItcGFMc2tiRVc5ZWhydWVJVUhpTW1EWkhiOGY4a3B6OQ?oc=5",
+    "summary": "Effects of Semaglutide on Chronic Kidney Disease in Patients with Type 2 Diabetes &nbsp;&nbsp; NEJM",
+    "date": "2024-05-24 01:30:00",
+    "image": "https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_68x28dp.png"
+  },
+  {
+    "source": "Google News",
+    "title": "Telemedicine home-based management in patients with chronic heart failure and diabetes type II: study protocol for a randomized controlled trial - BioMed Central",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPU3NWZFViazJ4ckF6OWtDTkdTNTM5cUdYbFlYdVlFWW0ydFVOVWRSY2ZVd2JNQU1XLWl0ck91Vl9qT2tGZWN0b3k4VGYxZEJxRVprdzV3RFlHVExRRENFRkRyN3V3NUdCMUpnNjlRQkZCUE1zekFsZk1nSlo5eTdxMg?oc=5",
+    "summary": "Telemedicine home-based management in patients with chronic heart failure and diabetes type II: study protocol for a randomized controlled trial &nbsp;&nbsp; BioMed Central",
+    "date": "2024-05-21 01:30:00",
+    "image": "https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_68x28dp.png"
+  },
+  {
+    "source": "Google News",
+    "title": "Optimism and Hope in Chronic Disease: A Systematic Review - Frontiers",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUVZ2NVRUTHVRdS1HbVBZSG4wNnRrWlRXRFNnOG4xenE3ejl0anVyM2ppbEhFQk9SWjJobkRtWG9oS25XLVZ3NkFnbTNCSHJSM2NrQ0dRNDZGdzMzUGJOczRPMzZfTmxBbWN4akNxZW5kZXB2THFhdndaVUl0SzM2ZllQSWNReFFjbE1ua1luaw?oc=5",
+    "summary": "Optimism and Hope in Chronic Disease: A Systematic Review &nbsp;&nbsp; Frontiers",
+    "date": "2024-02-07 00:59:55",
+    "image": "https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_68x28dp.png"
+  },
+  {
+    "source": "Google News",
+    "title": "Effectiveness of a school-based behavioural change intervention in reducing chronic disease risk factors in Chandigarh, India: a cluster-randomised controlled trial - The Lancet",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPX0RZTGM3Q3pSZ3NEX1FhM21xdXlmQlh0VE41RmRMU3o4ZVRyV3FITUxncDBqcFpmbTdxUjZuMXVqek9xMTdJeFFDazFyZklnR1otclI3cmNPQ0h6TEdNOW9UVXN5eXJlWmJBZFhqM0pUYTViQ2ZmTmtNdWNEcTI4RVY1X3Q3YTNaVG53?oc=5",
+    "summary": "Effectiveness of a school-based behavioural change intervention in reducing chronic disease risk factors in Chandigarh, India: a cluster-randomised controlled trial &nbsp;&nbsp; The Lancet",
+    "date": "2024-01-24 02:30:00",
+    "image": "https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_68x28dp.png"
+  },
+  {
+    "source": "Google News",
+    "title": "The role of dietary polyphenols in the control of chronic noncommunicable diseases - Wiley Online Library",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB4Q0JQQTRHSjB2ZVpZS29VQnJMeHJSS19JQ0dPYU0wRDdQNlhlRTRydXhiWDlrMHc1UlpibHduQW5fckJETU9PRDRhLU9OM2FDWnl6cDJVNWJKYk9XQUowY1hwckdQQmdrSzVz?oc=5",
+    "summary": "The role of dietary polyphenols in the control of chronic noncommunicable diseases &nbsp;&nbsp; Wiley Online Library",
+    "date": "2023-07-23 01:30:00",
+    "image": "https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_68x28dp.png"
+  },
+  {
+    "source": "Google News",
+    "title": "Effectiveness of therapeutic patient education interventions for chronic diseases: A systematic review and meta-analyses of randomized controlled trials - Frontiers",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYmN5NU9kcHZaS3hiU2RMcEdMWmlMcjQ4NGFLTHRJWWZKZktuT0NOWkhiOUE5ZDNYYnU5S3c4UklQNGtNNkU3MlJKSTh5bUV5Ti1tSXJ0TDJEeFNDUnI4bnE5Vl83Zkh5RTU2dzNmTWQ5Vk1rb09FRjZnY0EzU3ZpTElXeFhDVDQ0OXJNeg?oc=5",
+    "summary": "Effectiveness of therapeutic patient education interventions for chronic diseases: A systematic review and meta-analyses of randomized controlled trials &nbsp;&nbsp; Frontiers",
+    "date": "2023-01-24 02:30:00",
+    "image": "https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_68x28dp.png"
+  },
+  {
+    "source": "Google News",
+    "title": "Aging and aging-related diseases: from molecular mechanisms to interventions and treatments - Nature",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9oTnloekRGcU1uN29wTHctcFhXVmRpTGFuVWZlVnZxTWdDU01iZFM1OTVPcmU4RFBIc3QtU1YzcTZaVE1ubHFPWWlUZUZ3WnFGempXX2cwNC1Pd1c3bEN3?oc=5",
+    "summary": "Aging and aging-related diseases: from molecular mechanisms to interventions and treatments &nbsp;&nbsp; Nature",
+    "date": "2022-12-16 02:30:00",
+    "image": "https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_68x28dp.png"
+  },
+  {
+    "source": "Google News",
+    "title": "Empagliflozin in Patients with Chronic Kidney Disease - NEJM",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBoWk5oNmYyMktJam56MmJiS09PUE9JZGRldTVQRFRvZk9CUDJWMHFZR3pyYnJMeUNWYmQyZXhvX285Yk1LZ0NsTXI5cWVCeklpd1BKTkc0NHZYek9LNjRJeg?oc=5",
+    "summary": "Empagliflozin in Patients with Chronic Kidney Disease &nbsp;&nbsp; NEJM",
+    "date": "2022-11-04 01:30:00",
+    "image": "https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_68x28dp.png"
+  },
+  {
+    "source": "Google News",
+    "title": "Renin\u2013Angiotensin System Inhibition in Advanced Chronic Kidney Disease - NEJM",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ZTlc5UHo5LXhIYVdnd0NlVEJPaUhKLXVaam9MaHdUZjZ1YlJqRHJxQ1ZaM2FDU0t5bkg3LTFlZFV0U0VkaUN5YTJvUEEyTER1VmJPVVVmbFkzbEs2X3N3Mw?oc=5",
+    "summary": "Renin\u2013Angiotensin System Inhibition in Advanced Chronic Kidney Disease &nbsp;&nbsp; NEJM",
+    "date": "2022-11-03 01:30:00",
+    "image": "https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_68x28dp.png"
+  },
+  {
+    "source": "Google News",
+    "title": "Sw\u0101sthya, an integrated chronic condition management programme for families of patients with hypertension and diabetes mellitus: a study protocol for a randomised controlled trial - BMC Primary Care",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBnZVk1SW14Y2wyR1ZTYXRIZnR5RUEzZE9tQl9hbUxUYnFwa3J2bWxQM1IyZHJIcWtCVVl5WjdRZWJLR25FN0NoMzlxMElzUzNTUkdzR2tQTHRNQ21oRERPRFpsY1pQbEdVNldaSzZmb0JyeldSOUYwVThIcXZlUQ?oc=5",
+    "summary": "Sw\u0101sthya, an integrated chronic condition management programme for families of patients with hypertension and diabetes mellitus: a study protocol for a randomised controlled trial &nbsp;&nbsp; BMC Primary Care",
+    "date": "2021-01-09 02:30:00",
+    "image": "https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_68x28dp.png"
+  },
+  {
+    "source": "Google News",
+    "title": "Dapagliflozin in Patients with Chronic Kidney Disease - NEJM",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5id3dZWDRmSXk2LWQzUzBQcEpIUEZnaWFNZGdZNWpNYzZPVTNyUWZGVGNDSXdaeUVkWkVEX1BsNE5iaW5kVEl4OTRwWXNubUYzZ2dkVUdLZGV4V1oySXFyeg?oc=5",
+    "summary": "Dapagliflozin in Patients with Chronic Kidney Disease &nbsp;&nbsp; NEJM",
+    "date": "2020-09-24 09:46:55",
+    "image": "https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_68x28dp.png"
+  },
+  {
+    "source": "Google News",
+    "title": "Colchicine in Patients with Chronic Coronary Disease - NEJM",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95MTN4SUt6Q095Z1RUaVZFc1BQeVVUY1hDRGptaUM3ZVBpWC0yeENDZ3plWVk5VEVNMjZNcTlLWXJBUDdnQUVQc05SaUQyTzhDbUdTa3Zabk9NWlFqWGw4cg?oc=5",
+    "summary": "Colchicine in Patients with Chronic Coronary Disease &nbsp;&nbsp; NEJM",
+    "date": "2020-08-31 06:33:56",
+    "image": "https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_68x28dp.png"
   }
 ]
-"[]" 

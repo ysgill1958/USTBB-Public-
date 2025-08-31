@@ -212,16 +212,28 @@ def write_archive_index():
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--query", required=True,
-                        help="Search query for feeds")
+    parser.add_argument(
+        "--query",
+        required=True,
+        help="Search query for feeds (e.g., 'longevity OR aging OR randomized trial')"
+    )
     args = parser.parse_args()
 
+    # 1) Write homepage (includes colourful header + footer)
     write_home_shell()
-    write_archive_index()
 
+    # 2) Scrape and aggregate items
     items = aggregate(args.query)
-    (DATA/"items.json").write_text(json.dumps(items, indent=2), encoding="utf-8")
+
+    # 3) Save items JSON for the frontend
+    DATA.mkdir(parents=True, exist_ok=True)
+    (DATA / "items.json").write_text(json.dumps(items, indent=2), encoding="utf-8")
+
+    # 4) Generate monthly archives + archive index (with header/footer)
+    write_archives(items)
+
     print(f"✅ Wrote {len(items)} items")
+
 
 if __name__ == "__main__":
     main()

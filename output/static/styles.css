@@ -1,37 +1,143 @@
-/* colourful header */
-.mast{display:flex;justify-content:space-between;align-items:center;gap:12px;margin-bottom:12px;border-radius:16px;padding:18px;border:1px solid #dee2e6;background:#fff}
+/* ========== USTBB: Global Styles ========== */
+* { box-sizing: border-box; }
+:root{
+  --bg:#f8f9fa; --text:#212529; --muted:#6c757d; --border:#dee2e6;
+  --brandA:#7c3aed; --brandB:#06b6d4; --brandC:#22c55e;
+  --chip:#e9ecef; --chipText:#495057; --chipDel:#d6336c;
+  --btn:#e9ecef; --btnText:#111; --btnP:#0d6efd; --btnPText:#fff;
+}
+html, body { height: 100%; }
+body{
+  margin:0;
+  font-family: system-ui, Arial, Segoe UI, Roboto, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+}
+.wrap{ max-width: 1200px; margin: 0 auto; padding: 18px; }
+
+/* ========== Colorful Header (Mast) ========== */
+.mast{
+  display:flex;justify-content:space-between;align-items:center;gap:12px;
+  margin-bottom:12px;border-radius:16px;padding:18px;
+  border:1px solid var(--border);background:#fff;
+}
 .mast--colorful{
   color:#fff;border:0;background:
-  radial-gradient(1200px 280px at -10% -20%, rgba(124,58,237,.45), transparent 60%),
-  radial-gradient(1000px 260px at 110% -30%, rgba(6,182,212,.45), transparent 55%),
-  linear-gradient(135deg, #6d28d9, #0ea5e9 55%, #22c55e);
+    radial-gradient(1200px 280px at -10% -20%, rgba(124,58,237,.45), transparent 60%),
+    radial-gradient(1000px 260px at 110% -30%, rgba(6,182,212,.45), transparent 55%),
+    linear-gradient(135deg, #6d28d9, #0ea5e9 55%, #22c55e);
   box-shadow: 0 10px 30px rgba(0,0,0,.1);
 }
+.brand h1{font-size:1.35rem;margin:0;}
 .mast--colorful .brand h1{color:#fff;text-shadow:0 1px 0 rgba(0,0,0,.15)}
-.mast--colorful .tag{color:#eef2ff}
-.brand h1{font-size:1.35rem;margin:0}
-.tag{font-size:.95rem}
-.link{color:#fff;text-decoration:none;font-weight:600}
+.tag{font-size:.95rem;color:var(--muted);}
+.mast--colorful .tag{color:#eef2ff;}
+.link{color:#0d6efd;text-decoration:none;font-weight:600}
+.mast--colorful .link{color:#fff}
 .link:hover{text-decoration:underline}
 
-/* footer */
+/* ========== Filters ========== */
+.filters{
+  background:#fff;border:1px solid var(--border);
+  border-radius:14px;padding:12px;margin-bottom:14px;
+}
+.filter-grid{
+  display:grid;gap:8px;grid-template-columns:1fr 200px 200px 120px;
+}
+@media(max-width:820px){ .filter-grid{ grid-template-columns:1fr; } }
+input[type=search], input[type=date]{
+  width:100%;padding:12px;border-radius:12px;border:1px solid var(--border);
+  background:#fff;color:var(--text);
+}
+.btn{
+  padding:10px 12px;border-radius:10px;border:1px solid var(--border);
+  background:var(--btn);color:var(--btnText);cursor:pointer;
+}
+.btn:hover{ filter:brightness(.96); }
+.btn-primary{ background:var(--btnP); border-color:var(--btnP); color:var(--btnPText); }
+
+/* ========== Keyword Chips (optional; safe to keep) ========== */
+.keywords{display:grid;gap:10px;margin-top:10px}
+.kw-input{display:grid;grid-template-columns:1fr 120px;gap:8px}
+.kw-input input{
+  width:100%;padding:12px;border-radius:12px;border:1px solid var(--border);
+  background:#fff;color:var(--text)
+}
+.kw-chips{display:flex;flex-wrap:wrap;gap:8px}
+.chip{
+  display:inline-flex;align-items:center;gap:8px;padding:6px 10px;border-radius:999px;
+  background:var(--chip);color:var(--chipText);border:1px solid var(--border);font-size:.9rem
+}
+.chip button{border:0;background:transparent;color:var(--chipDel);cursor:pointer;font-weight:700}
+.chip--preset{cursor:pointer}
+.chip--preset:hover{filter:brightness(.94)}
+
+/* ========== Cards/Grid ========== */
+.grid{ display:grid; gap:14px; }
+@media(min-width:760px){ .grid{ grid-template-columns:1fr 1fr; } }
+
+.card{
+  background:#fff;border:1px solid var(--border);border-radius:12px;overflow:hidden;
+}
+.inner{
+  display:grid;gap:12px;grid-template-columns:1fr 260px;
+}
+@media(max-width:759px){ .inner{ grid-template-columns:1fr; } }
+
+.txt{ padding:14px; }
+.title{ margin:.3rem 0 0 0; line-height:1.25; }
+.title a{ text-decoration:none; color:#111; }
+.title a:hover{ text-decoration:underline; }
+
+/* Clamp long titles/summaries for tidy cards */
+.title{
+  display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden;
+}
+.summary{
+  margin-top:8px;
+  display:-webkit-box; -webkit-line-clamp:4; -webkit-box-orient:vertical; overflow:hidden;
+  color:#495057;
+}
+.muted{ color:var(--muted); font-size:.9em; }
+
+/* ========== Media Pane (fixed-height thumbnails) ========== */
+.mediaBox{
+  width:100%; height:180px; overflow:hidden;
+  border-left:1px solid var(--border); background:#f1f3f5;
+}
+.thumb{
+  width:100%; height:100%; object-fit:cover; display:block;
+}
+.mediaBox--placeholder{
+  display:flex; align-items:center; justify-content:center; padding:10px;
+}
+.media__inner{ max-height:100%; overflow:hidden; text-align:left; }
+.media__title{
+  font-weight:600; line-height:1.25; margin:0 0 6px 0; font-size:14px; color:#212529;
+  display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden;
+}
+.media__summary{
+  color:#6c757d; font-size:13px; line-height:1.35;
+  display:-webkit-box; -webkit-line-clamp:3; -webkit-box-orient:vertical; overflow:hidden;
+}
+
+/* ========== Highlight for keyword hits ========== */
+mark{ padding:.1em .2em; border-radius:.25em; background:#fff3bf; }
+
+/* ========== Footer ========== */
 .footer{
   background:linear-gradient(135deg,#0ea5e9,#22c55e);
-  color:#fff;
-  border-radius:16px;
-  margin-top:20px;
-  padding:30px 20px;
+  color:#fff; border-radius:16px; margin-top:20px; padding:30px 20px;
 }
 .footer-grid{
-  display:grid;
-  gap:20px;
-  grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
+  display:grid; gap:20px; grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
 }
-.footer h3{
-  margin-top:0;margin-bottom:10px;font-size:1.1rem;color:#fff;
-}
-.footer ul{list-style:none;margin:0;padding:0}
-.footer ul li{margin:6px 0}
-.footer a{color:#fff;text-decoration:none}
-.footer a:hover{text-decoration:underline}
-.social li{display:inline-block;margin-right:12px}
+.footer h3{ margin-top:0; margin-bottom:10px; font-size:1.1rem; color:#fff; }
+.footer ul{ list-style:none; margin:0; padding:0; }
+.footer ul li{ margin:6px 0; }
+.footer a{ color:#fff; text-decoration:none; }
+.footer a:hover{ text-decoration:underline; }
+.social li{ display:inline-block; margin-right:12px; }
+
+/* ========== Utilities ========== */
+.empty{ padding:18px; text-align:center; color:var(--muted); }

@@ -236,4 +236,6 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    items = scrape_sources()
+    write_index(items)
+    write_archive_index(items) 
